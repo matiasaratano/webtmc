@@ -70,14 +70,14 @@ const Navbar1 = () => {
               </Link>
             </motion.div>
             <motion.div
-              key="Programa"
+              key="Preguntas"
               initial={{ opacity: 0, y: -10 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.3 }}
               whileHover={{ scale: 1.05 }}
             >
-              <Link href="#" className="text-sm text-gray-900 hover:text-gray-600 transition-colors font-medium">
-                Programa
+              <Link href="/preguntas" className="text-sm text-gray-900 hover:text-gray-600 transition-colors font-medium">
+                Preguntas
               </Link>
             </motion.div>
             <motion.div
@@ -87,10 +87,11 @@ const Navbar1 = () => {
               transition={{ duration: 0.3 }}
               whileHover={{ scale: 1.05 }}
             >
-              <Link href="#" className="text-sm text-gray-900 hover:text-gray-600 transition-colors font-medium">
+              <Link href="/condiciones" className="text-sm text-gray-900 hover:text-gray-600 transition-colors font-medium">
                 Condiciones
               </Link>
             </motion.div>
+          
           </nav>
 
         {/* Desktop CTA Button */}
@@ -102,7 +103,7 @@ const Navbar1 = () => {
           whileHover={{ scale: 1.05 }}
         >
           <a
-            href="#"
+            href="https://bienalvg.web.app/index.html"
             className="inline-flex items-center justify-center px-5 py-2 text-sm text-white bg-black rounded-full hover:bg-gray-800 transition-colors"
           >
             Inscripciones
@@ -158,11 +159,11 @@ const Navbar1 = () => {
                 className="pt-6"
               >
                 <a
-                  href="#"
-                  className="inline-flex items-center justify-center w-full px-5 py-3 text-base text-white bg-black rounded-full hover:bg-gray-800 transition-colors "
+                  href="https://bienalvg.web.app/index.html"
+                  className="inline-flex items-center justify-center w-full px-5 py-3 text-base text-white bg-black rounded-full hover:bg-gray-800 transition-colors"
                   onClick={toggleMenu}
                 >
-                  Get Started
+                  Inscripciones
                 </a>
               </motion.div>
             </div>

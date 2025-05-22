@@ -4,6 +4,7 @@ import { Hero } from "@/components/ui/hero-with-group-of-images-text-and-two-but
 import { Button } from "@/components/ui/button";
 import { MapPin, Phone } from "lucide-react";
 import { Footer } from "@/components/ui/footer";
+import { WorkshopsCarousel } from "@/components/blocks/workshops-carousel";
 
 function WhatsAppButton() {
   const handleClick = () => {
@@ -29,6 +30,34 @@ export default function Home() {
     <main className="flex min-h-screen flex-col">
       <Hero />
       
+      <WorkshopsCarousel
+        title="Nuestros Talleres"
+        description="Descubre nuestros talleres especializados en cerámica y aprende de los mejores artistas."
+        workshops={[
+          {
+            id: "taller-1",
+            title: "Taller de Cerámica Básica",
+            description: "Aprende las técnicas fundamentales de la cerámica en este taller introductorio.",
+            image: "/images/pic1.jpg",
+            href: "/talleres/taller-1",
+          },
+          {
+            id: "taller-2",
+            title: "Técnicas Avanzadas de Esmaltado",
+            description: "Domina las técnicas más avanzadas de esmaltado y acabados.",
+            image: "/images/pic6.jpg",
+            href: "/talleres/taller-2",
+          },
+          {
+            id: "taller-3",
+            title: "Escultura en Cerámica",
+            description: "Explora la creación de esculturas y piezas artísticas en cerámica.",
+            image: "/images/pic9.jpg",
+            href: "/talleres/taller-3",
+          },
+        ]}
+      />
+
       {/* Sección de Contacto */}
       <section className="w-full py-20 bg-gray-50">
         <div className="container mx-auto px-4">

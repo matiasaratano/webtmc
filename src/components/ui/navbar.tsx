@@ -11,6 +11,15 @@ export function Navbar() {
           <Link href="/seminario" className="text-sm font-medium hover:text-gray-600">
             Seminario
           </Link>
+          <Link href="/talleres" className="text-sm font-medium transition-colors hover:text-primary">
+            Talleres
+          </Link>
+          <Link href="/preguntas" className="text-sm font-medium transition-colors hover:text-primary">
+            Preguntas
+          </Link>
+          <Link href="/contacto" className="text-sm font-medium transition-colors hover:text-primary">
+            Contacto
+          </Link>
         </div>
       </div>
     </header>

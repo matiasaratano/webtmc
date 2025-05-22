@@ -10,7 +10,7 @@ function Hero() {
         <div className="grid grid-cols-1 gap-8 items-center md:grid-cols-2">
           <div className="flex gap-4 flex-col">
             <div>
-              <Badge variant="outline">Bienvenidos a la web</Badge>
+              {/* <Badge variant="outline">Bienvenidos a la web</Badge> */}
             </div>
             <div className="flex gap-4 flex-col">
               <h1 className="text-5xl md:text-7xl max-w-lg tracking-tighter text-left font-regular">Taller Municipal de Cerámica de Villa Gesell
@@ -22,14 +22,14 @@ function Hero() {
                 ever.
               </p>
             </div>
-            <div className="flex flex-row gap-4">
+            {/* <div className="flex flex-row gap-4">
               <Button size="lg" className="gap-4" variant="outline">
                 Jump on a call <PhoneCall className="w-4 h-4" />
               </Button>
               <Button size="lg" className="gap-4">
                 Sign up here <MoveRight className="w-4 h-4" />
               </Button>
-            </div>
+            </div> */}
           </div>
           <div className="grid grid-cols-2 gap-8 w-full">
             <div className="relative aspect-square rounded-md overflow-hidden">
