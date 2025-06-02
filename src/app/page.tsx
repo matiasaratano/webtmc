@@ -5,6 +5,7 @@ import { Button } from "@/components/ui/button";
 import { MapPin, Phone } from "lucide-react";
 import { Footer } from "@/components/ui/footer";
 import { WorkshopsCarousel } from "@/components/blocks/workshops-carousel";
+import { workshops } from '@/data/workshops';
 
 function WhatsAppButton() {
   const handleClick = () => {
@@ -33,63 +34,42 @@ export default function Home() {
       <WorkshopsCarousel
         title="Nuestros Talleres"
         description="Descubre nuestros talleres especializados en cerámica y aprende de los mejores artistas."
-        workshops={[
-          {
-            id: "taller-1",
-            title: "Taller de Cerámica Básica",
-            description: "Aprende las técnicas fundamentales de la cerámica en este taller introductorio.",
-            image: "/images/pic1.jpg",
-            href: "/talleres/taller-1",
-          },
-          {
-            id: "taller-2",
-            title: "Técnicas Avanzadas de Esmaltado",
-            description: "Domina las técnicas más avanzadas de esmaltado y acabados.",
-            image: "/images/pic6.jpg",
-            href: "/talleres/taller-2",
-          },
-          {
-            id: "taller-3",
-            title: "Escultura en Cerámica",
-            description: "Explora la creación de esculturas y piezas artísticas en cerámica.",
-            image: "/images/pic9.jpg",
-            href: "/talleres/taller-3",
-          },
-        ]}
+        workshops={workshops}
       />
 
       {/* Sección de Contacto */}
-      <section className="w-full py-20 bg-gray-50">
+      <section className="py-20 bg-white">
         <div className="container mx-auto px-4">
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
-            {/* Información de Contacto */}
-            <div className="flex flex-col gap-6">
-              <h2 className="text-4xl tracking-tighter">Contacto</h2>
-              <div className="flex flex-col gap-4">
-                <div className="flex items-center gap-3">
-                  <MapPin className="w-6 h-6" />
-                  <p className="text-lg tracking-tight">Av. 3 y Paseo 105, Villa Gesell</p>
-                </div>
-                <div className="flex items-center gap-3">
-                  <Phone className="w-6 h-6" />
-                  <p className="text-lg tracking-tight">+54 2255 123456</p>
-                </div>
-              </div>
-              <WhatsAppButton />
+          <div className="text-center mb-12">
+            <h2 className="text-4xl tracking-tighter mb-4">Contacto</h2>
+            <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
+              ¿Tienes alguna pregunta? No dudes en contactarnos.
+            </p>
+          </div>
+
+          <div className="flex flex-col items-center gap-8 mb-12">
+            <div className="flex items-center gap-2">
+              <MapPin className="w-5 h-5" />
+              <span>Villa Gesell, Buenos Aires</span>
             </div>
-            
-            {/* Mapa */}
-            <div className="w-full h-[400px] rounded-lg overflow-hidden">
-              <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3272.1234567890123!2d-56.9731!3d-37.2625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzfCsDE1JzQ1LjAiUyA1NsKwNTgnMzEuMiJX!5e0!3m2!1ses!2sar!4v1234567890"
-                width="100%"
-                height="100%"
-                style={{ border: 0 }}
-                allowFullScreen
-                loading="lazy"
-                referrerPolicy="no-referrer-when-downgrade"
-              ></iframe>
+            <div className="flex items-center gap-2">
+              <Phone className="w-5 h-5" />
+              <span>+54 2255 123456</span>
             </div>
+            <WhatsAppButton />
+          </div>
+
+          {/* Mapa */}
+          <div className="w-full max-w-4xl mx-auto h-[400px] rounded-lg overflow-hidden">
+            <iframe
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3272.1234567890123!2d-56.96274401349086!3d-37.25075168865299!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzfCsDE1JzAyLjciUyA1NsKwNTcnNDEuOSJX!5e0!3m2!1ses!2sar!4v1234567890"
+              width="100%"
+              height="100%"
+              style={{ border: 0 }}
+              allowFullScreen
+              loading="lazy"
+              referrerPolicy="no-referrer-when-downgrade"
+            ></iframe>
           </div>
         </div>
       </section>

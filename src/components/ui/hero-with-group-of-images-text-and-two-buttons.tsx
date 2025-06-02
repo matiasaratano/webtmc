@@ -8,20 +8,18 @@ function Hero() {
     <div className="w-full py-10 lg:py-20">
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 gap-8 items-center md:grid-cols-2">
-          <div className="flex gap-4 flex-col">
+          <div className="flex gap-4 flex-col items-center text-center">
             <div>
               {/* <Badge variant="outline">Bienvenidos a la web</Badge> */}
             </div>
-            <div className="flex gap-4 flex-col">
-              <h1 className="text-5xl md:text-7xl max-w-lg tracking-tighter text-left font-regular">Taller Municipal de Cerámica de Villa Gesell
+            <div className="flex gap-4 flex-col items-center">
+              <h1 className="text-5xl md:text-7xl max-w-lg tracking-tighter text-center font-regular">14º Seminario Bienal de Cerámica de Villa Gesell
               </h1>
-              <p className="text-xl leading-relaxed tracking-tight text-muted-foreground max-w-md text-left">
-                Managing a small business today is already tough. Avoid further
-                complications by ditching outdated, tedious trade methods. Our
-                goal is to streamline SMB trade, making it easier and faster than
-                ever.
+              <p className="text-3xl leading-relaxed tracking-tight text-muted-foreground max-w-md text-center">
+              Del 30 de octubre al 2 de noviembre de 2025.
               </p>
             </div>
+            <img src="/images/logo.gif" alt="Logo" className="w-1/4" />
             {/* <div className="flex flex-row gap-4">
               <Button size="lg" className="gap-4" variant="outline">
                 Jump on a call <PhoneCall className="w-4 h-4" />

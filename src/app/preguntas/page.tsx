@@ -2,6 +2,7 @@
 
 import * as Accordion from '@radix-ui/react-accordion';
 import { ChevronDownIcon } from '@radix-ui/react-icons';
+import { Footer } from "@/components/ui/footer";
 
 const faqs = [
   {
@@ -112,32 +113,37 @@ const faqs = [
 
 export default function PreguntasPage() {
   return (
-    <div className="container mx-auto px-4 py-20">
-      <div className="max-w-4xl mx-auto">
-        <h1 className="text-4xl font-bold mb-8 tracking-tighter">Preguntas Frecuentes 2023</h1>
-        
-        <Accordion.Root
-          type="single"
-          collapsible
-          className="space-y-4"
-        >
-          {faqs.map((faq, index) => (
-            <Accordion.Item
-              key={index}
-              value={`item-${index}`}
-              className="border rounded-lg overflow-hidden"
+    <main className="flex min-h-screen flex-col">
+      <div className="w-full py-20">
+        <div className="container mx-auto px-4">
+          <div className="max-w-4xl mx-auto">
+            <h1 className="text-4xl font-bold mb-8 tracking-tighter">Preguntas Frecuentes</h1>
+            
+            <Accordion.Root
+              type="single"
+              collapsible
+              className="space-y-4"
             >
-              <Accordion.Trigger className="flex w-full items-center justify-between px-6 py-4 text-left bg-gray-50 hover:bg-gray-100 transition-colors">
-                <span className="text-lg font-medium tracking-tight">{faq.question}</span>
-                <ChevronDownIcon className="h-5 w-5 text-gray-500 transition-transform duration-200 ease-[cubic-bezier(0.87,_0,_0.13,_1)] group-data-[state=open]:rotate-180" />
-              </Accordion.Trigger>
-              <Accordion.Content className="px-6 py-4 text-muted-foreground tracking-tight">
-                {faq.answer}
-              </Accordion.Content>
-            </Accordion.Item>
-          ))}
-        </Accordion.Root>
+              {faqs.map((faq, index) => (
+                <Accordion.Item
+                  key={index}
+                  value={`item-${index}`}
+                  className="border rounded-lg overflow-hidden"
+                >
+                  <Accordion.Trigger className="flex w-full items-center justify-between px-6 py-4 text-left bg-gray-50 hover:bg-gray-100 transition-colors">
+                    <span className="text-lg font-medium tracking-tight">{faq.question}</span>
+                    <ChevronDownIcon className="h-5 w-5 text-gray-500 transition-transform duration-200 ease-[cubic-bezier(0.87,_0,_0.13,_1)] group-data-[state=open]:rotate-180" />
+                  </Accordion.Trigger>
+                  <Accordion.Content className="px-6 py-4 text-muted-foreground tracking-tight">
+                    {faq.answer}
+                  </Accordion.Content>
+                </Accordion.Item>
+              ))}
+            </Accordion.Root>
+          </div>
+        </div>
       </div>
-    </div>
+      <Footer />
+    </main>
   );
 } 
