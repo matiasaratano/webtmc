@@ -1,66 +1,42 @@
 'use client';
 
-import Image from 'next/image';
-import Link from 'next/link';
+import { Footer } from '@/components/ui/footer';
+import { ImageModal } from '@/components/ui/image-modal';
 import { workshops } from '@/data/workshops';
-import { Footer } from "@/components/ui/footer";
-import { Button } from "@/components/ui/button";
-import { ArrowLeft } from "lucide-react";
+import Link from 'next/link';
 
 export default function TalleresPage() {
   return (
-    <main className="min-h-screen flex flex-col">
-      <section className="py-20 flex-1">
+    <main className="flex min-h-screen flex-col">
+      <div className="flex-1 w-full py-20">
         <div className="container mx-auto px-4">
-          <div className="text-center mb-12">
-            <h1 className="text-4xl tracking-tighter mb-4">Nuestros Talleres</h1>
-            <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-              Descubre todos nuestros talleres especializados en cerámica y aprende de los mejores artistas.
-            </p>
-          </div>
-
-          <div className="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 md:gap-6 lg:gap-8">
-            {workshops.map((workshop) => (
-              <Link
-                key={workshop.id}
-                href={workshop.href}
-                className="group block bg-white rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-shadow"
-              >
-                <div className="relative aspect-[4/3] overflow-hidden">
-                  <Image
-                    src={workshop.image}
-                    alt={workshop.title}
-                    fill
-                    sizes="(max-width: 768px) 50vw, (max-width: 1200px) 50vw, 33vw"
-                    className="object-cover transition-transform group-hover:scale-105"
-                  />
-                </div>
-                <div className="p-4 md:p-6">
-                  <h2 className="text-lg md:text-xl font-semibold mb-2 group-hover:text-primary">
-                    {workshop.title}
-                  </h2>
-                  <p className="text-sm md:text-base text-muted-foreground">
-                    {workshop.description}
+          <div className="max-w-4xl mx-auto">
+            <h1 className="text-4xl font-bold mb-8 tracking-tighter">Talleres</h1>
+            
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+              {workshops.map((workshop) => (
+                <Link 
+                  key={workshop.id} 
+                  href={`/talleres/${workshop.slug}`}
+                  className="group block"
+                >
+                  <div className="relative w-full aspect-[4/3] overflow-hidden rounded-lg mb-4">
+                    <ImageModal 
+                      src={workshop.images[0].src} 
+                      alt={workshop.images[0].alt}
+                      images={workshop.images}
+                    />
+                  </div>
+                  <h2 className="text-2xl font-semibold mb-2">{workshop.title}</h2>
+                  <p className="text-muted-foreground line-clamp-2">
+                    {workshop.description.split('\n\n')[0]}
                   </p>
-                </div>
-              </Link>
-            ))}
-          </div>
-
-          <div className="flex justify-center mt-12">
-            <Link href="/">
-              <Button 
-                variant="outline" 
-                size="lg"
-                className="gap-2"
-              >
-                <ArrowLeft className="w-5 h-5" />
-                Volver al inicio
-              </Button>
-            </Link>
+                </Link>
+              ))}
+            </div>
           </div>
         </div>
-      </section>
+      </div>
 
       <Footer />
     </main>

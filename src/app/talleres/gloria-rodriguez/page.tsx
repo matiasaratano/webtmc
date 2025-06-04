@@ -3,12 +3,12 @@
 import { WorkshopPage } from '@/components/ui/workshop-page';
 import { workshops } from '@/data/workshops';
 
-export default function MariaCheungPage() {
-  const workshop = workshops.find(w => w.slug === 'maria-cheung');
+export default function GloriaRodriguezPage() {
+  const workshop = workshops.find(w => w.slug === 'gloria-rodriguez');
   
   if (!workshop) {
     return null;
   }
 
   return <WorkshopPage workshop={workshop} />;
-}
+} 
