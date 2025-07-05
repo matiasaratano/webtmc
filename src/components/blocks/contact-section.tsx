@@ -5,7 +5,7 @@ import { MapPin, Phone } from 'lucide-react';
 
 function WhatsAppButton() {
   const handleClick = () => {
-    window.open('https://wa.me/542255123456', '_blank');
+    window.open('https://wa.me/542255625446', '_blank');
   };
 
   return (
@@ -40,7 +40,7 @@ export function ContactSection() {
           </div>
           <div className="flex items-center gap-2">
             <Phone className="w-5 h-5" />
-            <span>+54 2255 123456</span>
+            <span>2255 625446</span>
           </div>
           <WhatsAppButton />
         </div>
@@ -48,7 +48,7 @@ export function ContactSection() {
         {/* Mapa */}
         <div className="w-full max-w-4xl mx-auto h-[400px] rounded-lg overflow-hidden">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3272.1234567890123!2d-56.96274401349086!3d-37.25075168865299!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzfCsDE1JzAyLjciUyA1NsKwNTcnNDEuOSJX!5e0!3m2!1ses!2sar!4v1234567890"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3175.8745166743183!2d-56.9624793!3d-37.2506846!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x959b605ecd795a49%3A0x59dc842213435ecc!2sConfiter%C3%ADa%20del%20Taller%20Municipal%20de%20Cer%C3%A1mica%20de%20Villa%20Gesell!5e0!3m2!1ses-419!2sar!4v1751674356553!5m2!1ses-419!2sar"
             width="100%"
             height="100%"
             style={{ border: 0 }}

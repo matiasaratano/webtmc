@@ -17,19 +17,25 @@ export default function TalleresPage() {
               {workshops.map((workshop) => (
                 <Link 
                   key={workshop.id} 
-                  href={`/talleres/${workshop.slug}`}
+                  href={`/talleres/${workshop.letra}`}
                   className="group block"
                 >
                   <div className="relative w-full aspect-[4/3] overflow-hidden rounded-lg mb-4">
-                    <ImageModal 
-                      src={workshop.images[0].src} 
-                      alt={workshop.images[0].alt}
-                      images={workshop.images}
-                    />
+                    {workshop.images && workshop.images.length > 0 ? (
+                      <ImageModal 
+                        src={workshop.images[0].src} 
+                        alt={workshop.images[0].alt}
+                        images={workshop.images}
+                      />
+                    ) : (
+                      <div className="w-full h-full bg-gray-200 flex items-center justify-center">
+                        <span className="text-gray-500">Sin imagen</span>
+                      </div>
+                    )}
                   </div>
-                  <h2 className="text-2xl font-semibold mb-2">{workshop.title}</h2>
+                  <h2 className="text-2xl font-semibold mb-2">{workshop.nombre}</h2>
                   <p className="text-muted-foreground line-clamp-2">
-                    {workshop.description.split('\n\n')[0]}
+                    {workshop.descripcion ? workshop.descripcion.split('\n\n')[0] : 'Sin descripción disponible'}
                   </p>
                 </Link>
               ))}

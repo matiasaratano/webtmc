@@ -15,14 +15,21 @@ export function WorkshopPage({ workshop }: WorkshopPageProps) {
       <div className="flex-1 w-full py-20">
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto">
-            <h1 className="text-4xl font-bold mb-8 tracking-tighter">{workshop.title}</h1>
-            
+            <h1 className="text-4xl font-bold mb-8 tracking-tighter">{workshop.nombre || 'Nombre del taller'}</h1>
+
             <div className="prose prose-lg max-w-none space-y-8">
-              {workshop.bio && (
+              {workshop.docente && (
                 <section>
-                  <h2 className="text-2xl font-semibold mb-4">Mini Biografía</h2>
+                  <h2 className="text-2xl font-semibold mb-4">Docente</h2>
+                  <p className="text-xl text-muted-foreground tracking-tight">{workshop.docente}</p>
+                </section>
+              )}
+
+              {workshop.descripcion && (
+                <section>
+                  <h2 className="text-2xl font-semibold mb-4">Descripción del taller</h2>
                   <div className="space-y-4">
-                    {workshop.bio.split('\n\n').map((paragraph, index) => (
+                    {workshop.descripcion.split('\n\n').map((paragraph, index) => (
                       <p key={index} className="text-xl text-muted-foreground tracking-tight">
                         {paragraph}
                       </p>
@@ -31,16 +38,23 @@ export function WorkshopPage({ workshop }: WorkshopPageProps) {
                 </section>
               )}
 
-              {workshop.description && (
+              {(workshop.cupos || workshop.turno || workshop.redes || workshop.info) && (
                 <section>
-                  <h2 className="text-2xl font-semibold mb-4">Descripción del taller</h2>
-                  <div className="space-y-4">
-                    {workshop.description.split('\n\n').map((paragraph, index) => (
-                      <p key={index} className="text-xl text-muted-foreground tracking-tight">
-                        {paragraph}
-                      </p>
-                    ))}
-                  </div>
+                  <h2 className="text-2xl font-semibold mb-4">Información adicional</h2>
+                  <ul className="space-y-2">
+                    {workshop.cupos && (
+                      <li><span className="font-medium">Cupos:</span> {workshop.cupos}</li>
+                    )}
+                    {workshop.turno && (
+                      <li><span className="font-medium">Turno:</span> {workshop.turno}</li>
+                    )}
+                    {workshop.redes && (
+                      <li><span className="font-medium">Redes:</span> {workshop.redes}</li>
+                    )}
+                    {workshop.info && (
+                      <li><span className="font-medium">Info:</span> {workshop.info}</li>
+                    )}
+                  </ul>
                 </section>
               )}
 

@@ -15,7 +15,7 @@ export default function Home() {
           <div className="text-center mb-12">
             <h2 className="text-4xl tracking-tighter mb-4">Talleres</h2>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-              Descubre nuestros talleres especializados en cerámica
+              A continuación, podrás encontrar los talleres que estarán disponibles en el XIV Seminario Bienal de Cerámica de Villa Gesell.
             </p>
           </div>
           <WorkshopsCarousel />

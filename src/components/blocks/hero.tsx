@@ -10,7 +10,7 @@ export function Hero() {
           <div className="flex gap-4 flex-col items-center text-center">
             <div className="flex gap-4 flex-col items-center">
               <h1 className="text-5xl md:text-7xl max-w-lg tracking-tighter text-center font-regular">
-                14º Seminario Bienal de Cerámica de Villa Gesell
+                XIV Seminario Bienal de Cerámica de Villa Gesell
               </h1>
               <p className="text-3xl leading-relaxed tracking-tight text-muted-foreground max-w-md text-center">
                 Del 30 de octubre al 2 de noviembre de 2025.
