@@ -4,7 +4,7 @@ import { WorkshopPage } from '@/components/ui/workshop-page';
 import { workshops } from '@/data/workshops';
 
 export default function LeisMaximilianoPage() {
-  const workshop = workshops.find(w => w.slug === 'leis-maximiliano');
+  const workshop = workshops.find(w => w.letra === 'C');
   
   if (!workshop) {
     return null;
