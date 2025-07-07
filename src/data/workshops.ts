@@ -15,14 +15,45 @@ export const workshops: Workshop[] = [
   {
     id: 'A',
     letra: 'A',
-    docente: 'Marcela Dottario',
+    docente: 'Marcela D´Ottavio',
     nombre: 'Construcción de horno de ladrillo de tiro invertido',
-    descripcion: '',
+    descripcion: `Estimados/as miembros del comité de la Bienal:
+Mi nombre es Marcela D´Ottavio, nací en Rosario y desde 2010 vivo y trabajo
+en Pueblo Esther, Santa Fe. Desde hace casi una década me dedico de
+manera exclusiva a la cerámica, un oficio que me acompaña desde la
+infancia y que con el tiempo se transformó en el centro de mi vida creativa,
+técnica y pedagógica.
+
+Mi recorrido en la cerámica es, ante todo, un camino de búsqueda: guiado
+por la curiosidad, la prueba y el error, el hacer constante y el estudio
+autodidacta. A lo largo de estos años he complementado esa base con
+cursos específicos de construcción manual, torno y esmaltes, y desde 2020
+he profundizado en la construcción de hornos eléctricos y a leña,
+desarrollando versiones propias que hoy son parte esencial de mi propuesta.
+
+En la actualidad, además de producir piezas en gres y construir hornos, dicto
+cursos y tutorías online —individuales y grupales— y he desarrollado varios
+cursos grabados que buscan compartir lo aprendido con otras personas
+apasionadas por la cerámica. Mi proyecto, @iluminaceramicas, es también
+una forma de tejer comunidad y de iluminar, como su nombre sugiere, los
+caminos del oficio.
+
+Agradezco profundamente la posibilidad de presentarme a esta Bienal. Para
+mí, formar parte de estos espacios es una forma de seguir construyendo con
+otros/as ceramistas un lenguaje común, nacido del barro y de la
+experiencia.
+
+Con afecto y entusiasmo,
+Marcela D´Ottavio`,
     cupos: '',
     turno: '',
     redes: '',
     info: '',
-    images: [],
+    images: [
+      { src: '/images/A/img1.png', alt: 'Imagen del taller A - Construcción de horno 1' },
+      { src: '/images/A/img2.png', alt: 'Imagen del taller A - Construcción de horno 2' },
+      { src: '/images/A/img3.png', alt: 'Imagen del taller A - Construcción de horno 3' },
+    ],
   },
   {
     id: 'B',
@@ -280,12 +311,15 @@ Luciano y Sol trabajan la cerámica desde hace más de 16 años. Han desarrollad
     letra: 'I',
     docente: 'Daysi Linares',
     nombre: 'Moldería',
-    descripcion: '',
+    descripcion: `Perfil Profesional
+Profesora de cerámica con más de 11 años de experiencia en docencia artística. Especializada en técnicas de diseño, serialización, decoración cerámica, moldería y vitral. Con vocación por la enseñanza y el trabajo colectivo, ha desarrollado talleres para diversas instituciones y participado en encuentros binacionales y nacionales relacionados con el arte cerámico y la integración cultural.`,
     cupos: '',
     turno: '',
     redes: '',
     info: '',
-    images: [],
+    images: [
+      { src: '/images/I/img1.png', alt: 'Imagen del taller I - Moldería' },
+    ],
   },
   {
     id: 'J',
