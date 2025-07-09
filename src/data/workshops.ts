@@ -13,8 +13,8 @@ export interface Workshop {
 
 export const workshops: Workshop[] = [
   {
-    id: 'A',
-    letra: 'A',
+    id: '1',
+    letra: '1',
     docente: 'Marcela D´Ottavio',
     nombre: 'Construcción de horno de ladrillo de tiro invertido',
     descripcion: `Estimados/as miembros del comité de la Bienal:
@@ -50,14 +50,14 @@ Marcela D´Ottavio`,
     redes: '',
     info: '',
     images: [
-      { src: '/images/A/img1.png', alt: 'Imagen del taller A - Construcción de horno 1' },
-      { src: '/images/A/img2.png', alt: 'Imagen del taller A - Construcción de horno 2' },
-      { src: '/images/A/img3.png', alt: 'Imagen del taller A - Construcción de horno 3' },
+      { src: '/images/1/img1.png', alt: 'Imagen del taller 1 - Construcción de horno 1' },
+      { src: '/images/1/img2.png', alt: 'Imagen del taller 1 - Construcción de horno 2' },
+      { src: '/images/1/img3.png', alt: 'Imagen del taller 1 - Construcción de horno 3' },
     ],
   },
   {
-    id: 'B',
-    letra: 'B',
+    id: '2',
+    letra: '2',
     docente: 'Magda Serna',
     nombre: 'El trencadís de gaudí en el bosque geselino',
     descripcion: `Taller de mosaico con materiales reciclados.
@@ -79,14 +79,14 @@ La obra también abarcará la ampliación del Museo que expone importantes conte
     redes: '',
     info: '',
     images: [
-      { src: '/images/B/img1.jpg', alt: 'Imagen del taller B 1' },
-      { src: '/images/B/img2.jpg', alt: 'Imagen del taller B 2' },
-      { src: '/images/B/3.jpg', alt: 'Imagen del taller B 3' },
+      { src: '/images/2/img1.jpg', alt: 'Imagen del taller 2 1' },
+      { src: '/images/2/img2.jpg', alt: 'Imagen del taller 2 2' },
+      { src: '/images/2/3.jpg', alt: 'Imagen del taller 2 3' },
     ],
   },
   {
-    id: 'C',
-    letra: 'C',
+    id: '3',
+    letra: '3',
     docente: 'Maxi Leis',
     nombre: 'Modelado de figura humana con modelo vivo desde una mirada anatómica',
     descripcion: `
@@ -105,15 +105,15 @@ Competencias: ayudar a los alumnos, acompañando y monitoreando los procesos de 
     redes: 'https://www.instagram.com/leismaximiliano?utm_source=qr&igsh=d3p2MXhlOGFpZjVh',
     info: '',
     images: [
-      { src: '/images/C/img1.jpeg', alt: 'Imagen del taller C 1' },
-      { src: '/images/C/img2.jpeg', alt: 'Imagen del taller C 2' },
-      { src: '/images/C/img3.png', alt: 'Imagen del taller C 3' },
-      { src: '/images/C/img4.png', alt: 'Imagen del taller C 4' },
+      { src: '/images/3/img1.jpeg', alt: 'Imagen del taller 3 1' },
+      { src: '/images/3/img2.jpeg', alt: 'Imagen del taller 3 2' },
+      { src: '/images/3/img3.png', alt: 'Imagen del taller 3 3' },
+      { src: '/images/3/img4.png', alt: 'Imagen del taller 3 4' },
     ],
   },
   {
-    id: 'D',
-    letra: 'D',
+    id: '4',
+    letra: '4',
     docente: 'Adrian Gonzalez',
     nombre: 'Raku',
     descripcion: `Adrian González
@@ -141,12 +141,12 @@ Realización de muestras colectivas e individuales
     redes: '',
     info: '',
     images: [
-      { src: '/images/D/img1.jpg', alt: 'Imagen del taller D 1' },
+      { src: '/images/4/img1.jpg', alt: 'Imagen del taller 4 1' },
     ],
   },
   {
-    id: 'E',
-    letra: 'E',
+    id: '5',
+    letra: '5',
     docente: 'Vivi Gendre',
     nombre: 'Quimica y poetica de la materia',
     descripcion: `Les convido un espacio donde a partir de distintas  prácticas artísticas buscaremos nuevas posibilidades de tratamiento de superficies desde el barro crudo
@@ -162,13 +162,13 @@ Y el soporte que nos sostiene, la Tierra
     redes: '',
     info: '',
     images: [
-      { src: '/images/E/img1.jpg', alt: 'Imagen del taller E 1' },
-      { src: '/images/E/img2.png', alt: 'Imagen del taller E 2' },
+      { src: '/images/5/img1.jpg', alt: 'Imagen del taller 5 1' },
+      { src: '/images/5/img2.png', alt: 'Imagen del taller 5 2' },
     ],
   },
   {
-    id: 'F',
-    letra: 'F',
+    id: '6',
+    letra: '6',
     docente: 'Gloria Rodriguez',
     nombre: 'Experiencia serigrafía sobre el objeto cerámico crudo',
     descripcion: `Artista ceramista, Profesora. Licenciada en Artes Visuales- Artes del Fuego (UNA). Maestra Joyera.
@@ -192,14 +192,14 @@ Transferir a partir de shablon imágenes sobre objetos cerámicos en crudo, desa
     redes: '',
     info: '',
     images: [
-      { src: '/images/F/img1.png', alt: 'Imagen del taller F 1' },
-      { src: '/images/F/img2.jpeg', alt: 'Imagen del taller F 2' },
-      { src: '/images/F/img3.jpeg', alt: 'Imagen del taller F 3' },
+      { src: '/images/6/img1.png', alt: 'Imagen del taller 6 1' },
+      { src: '/images/6/img2.jpeg', alt: 'Imagen del taller 6 2' },
+      { src: '/images/6/img3.jpeg', alt: 'Imagen del taller 6 3' },
     ],
   },
   {
-    id: 'G',
-    letra: 'G',
+    id: '7',
+    letra: '7',
     docente: 'Myrtha Sirna',
     nombre: 'El principio del esmalte sobre metal',
     descripcion: '',
@@ -210,8 +210,8 @@ Transferir a partir de shablon imágenes sobre objetos cerámicos en crudo, desa
     images: [],
   },
   {
-    id: 'H',
-    letra: 'H',
+    id: '8',
+    letra: '8',
     docente: 'Luciano Giménez y Sol Carranza Sieber',
     nombre: 'Clínica de obra: procesos y reflexiones sobre el hacer artístico cerámico',
     descripcion: `CASIOPEA, poéticas cerámicas
@@ -302,13 +302,13 @@ Luciano y Sol trabajan la cerámica desde hace más de 16 años. Han desarrollad
     redes: '',
     info: '',
     images: [
-      { src: '/images/H/img1.jpg', alt: 'Imagen del taller H 1' },
-      { src: '/images/H/img2.jpg', alt: 'Imagen del taller H 2' },
+      { src: '/images/8/img1.jpg', alt: 'Imagen del taller 8 1' },
+      { src: '/images/8/img2.jpg', alt: 'Imagen del taller 8 2' },
     ],
   },
   {
-    id: 'I',
-    letra: 'I',
+    id: '9',
+    letra: '9',
     docente: 'Daysi Linares',
     nombre: 'Moldería',
     descripcion: `Perfil Profesional
@@ -318,12 +318,12 @@ Profesora de cerámica con más de 11 años de experiencia en docencia artístic
     redes: '',
     info: '',
     images: [
-      { src: '/images/I/img1.png', alt: 'Imagen del taller I - Moldería' },
+      { src: '/images/9/img1.png', alt: 'Imagen del taller 9 - Moldería' },
     ],
   },
   {
-    id: 'J',
-    letra: 'J',
+    id: '10',
+    letra: '10',
     docente: 'Vero Horak',
     nombre: 'Articulados',
     descripcion: '',
@@ -334,8 +334,8 @@ Profesora de cerámica con más de 11 años de experiencia en docencia artístic
     images: [],
   },
   {
-    id: 'K',
-    letra: 'K',
+    id: '11',
+    letra: '11',
     docente: 'Maria Cheung',
     nombre: 'Charla – Una Experiencia Personal del Proceso Creativo',
     descripcion: `14º Seminario Bienal de Cerámica de Villa Gesell
@@ -366,15 +366,15 @@ Sus obras forman parte de importantes colecciones de museos e instituciones en B
     redes: '',
     info: '',
     images: [
-      { src: '/images/K/img1.webp', alt: 'Imagen del taller K 1' },
-      { src: '/images/K/img2.png', alt: 'Imagen del taller K 2' },
-      { src: '/images/K/img3.jpg', alt: 'Imagen del taller K 3' },
-      { src: '/images/K/img4.jpeg', alt: 'Imagen del taller K 4' },
+      { src: '/images/11/img1.webp', alt: 'Imagen del taller 11 1' },
+      { src: '/images/11/img2.png', alt: 'Imagen del taller 11 2' },
+      { src: '/images/11/img3.jpg', alt: 'Imagen del taller 11 3' },
+      { src: '/images/11/img4.jpeg', alt: 'Imagen del taller 11 4' },
     ],
   },
   {
-    id: 'L',
-    letra: 'L',
+    id: '12',
+    letra: '12',
     docente: 'Laura Ospina - Laura Henao Monsalve',
     nombre: 'Cerámica sonora inspirada en el arte prehispánico',
     descripcion: '',
@@ -385,8 +385,8 @@ Sus obras forman parte de importantes colecciones de museos e instituciones en B
     images: [],
   },
   {
-    id: 'M',
-    letra: 'M',
+    id: '13',
+    letra: '13',
     docente: 'Claudia Cambours',
     nombre: 'Pensar el hacer, habitar el grupo.',
     descripcion: `Much@s ceramistas llevamos a cabo nuestro trabajo en talleres de diversos ámbitos no formales tales como centros culturales, espacios alternativos y  o en talleres propios. Armamos nuestras propuestas con los saberes que hemos aprendido en nuestra formación y con los que seguimos constantemente incorporando. Con la multiplicidad de información, fotos y videos que hoy se comparten en las redes, las personas concurren a los talleres pensando que rápidamente podrán llegar a “exitosos” resultados. Sabemos que nuestra práctica requiere de un largo proceso y eso es lo que la hace maravillosa. Como hacer entonces para que nuestras propuestas resulten convocantes? En tiempos de excesiva individualidad, como se propicia el encuentro grupal de l@s asistentes? Las propuestas de trabajo tienen que ser grupales o individuales? Que buscan l@s participantes que concurren a nuestros talleres?  Estos y otros interrogantes que hacen a nuestra práctica, será lo que trabajaremos en este encuentro. Esta actividad está pensada para ceramistas con experiencia a cargo en talleres como a así también para los que estén interesados en coordinarlos.
@@ -413,15 +413,15 @@ https://padlet.com/camboursclaudia/claudia-cambours-40xl4kbfqwugv5b2
     redes: '@claudiacambours',
     info: 'https://padlet.com/camboursclaudia/claudia-cambours-40xl4kbfqwugv5b2',
     images: [
-      { src: '/images/M/img1.jpeg', alt: 'Imagen del taller M 1' },
-      { src: '/images/M/img2.jpeg', alt: 'Imagen del taller M 2' },
-      { src: '/images/M/img3.jpeg', alt: 'Imagen del taller M 3' },
-      { src: '/images/M/img4.jpeg', alt: 'Imagen del taller M 4' },
+      { src: '/images/13/img1.jpeg', alt: 'Imagen del taller 13 1' },
+      { src: '/images/13/img2.jpeg', alt: 'Imagen del taller 13 2' },
+      { src: '/images/13/img3.jpeg', alt: 'Imagen del taller 13 3' },
+      { src: '/images/13/img4.jpeg', alt: 'Imagen del taller 13 4' },
     ],
   },
   {
-    id: 'N',
-    letra: 'N',
+    id: '14',
+    letra: '14',
     docente: 'Mariano Mungo',
     nombre: 'Taller intensivo de escultura en torno alfarero',
     descripcion: '',
@@ -432,20 +432,31 @@ https://padlet.com/camboursclaudia/claudia-cambours-40xl4kbfqwugv5b2
     images: [],
   },
   {
-    id: 'O',
-    letra: 'O',
+    id: '15',
+    letra: '15',
     docente: 'Eliana Oliva',
-    nombre: 'Cuerda Seca',
-    descripcion: '',
+    nombre: 'La cuerda seca y sus posibilidades',
+    descripcion: `Creadora del Taller de Cerámica “Fuego Blanco”
+Clases de alfarería   
+Taller de introducción en Cerámica para 
+Niños y adultos.
+Desde 2008`,
     cupos: '',
     turno: '',
     redes: '',
     info: '',
-    images: [],
+    images: [
+      { src: '/images/15/img1.jpeg', alt: 'Imagen del taller 15 1' },
+      { src: '/images/15/img2.jpeg', alt: 'Imagen del taller 15 2' },
+      { src: '/images/15/img3.jpeg', alt: 'Imagen del taller 15 3' },
+      { src: '/images/15/img4.jpeg', alt: 'Imagen del taller 15 4' },
+      { src: '/images/15/img5.jpeg', alt: 'Imagen del taller 15 5' },
+      { src: '/images/15/img6.jpeg', alt: 'Imagen del taller 15 6' },
+    ],
   },
   {
-    id: 'P',
-    letra: 'P',
+    id: '16',
+    letra: '16',
     docente: 'Karina del Savio',
     nombre: 'Vitrofusión',
     descripcion: '',
@@ -456,8 +467,8 @@ https://padlet.com/camboursclaudia/claudia-cambours-40xl4kbfqwugv5b2
     images: [],
   },
   {
-    id: 'Q',
-    letra: 'Q',
+    id: '17',
+    letra: '17',
     docente: 'Juanjo Izaguirre',
     nombre: '',
     descripcion: '',
@@ -468,8 +479,8 @@ https://padlet.com/camboursclaudia/claudia-cambours-40xl4kbfqwugv5b2
     images: [],
   },
   {
-    id: 'R',
-    letra: 'R',
+    id: '18',
+    letra: '18',
     docente: 'Antonio Paez',
     nombre: '',
     descripcion: '',
@@ -480,8 +491,8 @@ https://padlet.com/camboursclaudia/claudia-cambours-40xl4kbfqwugv5b2
     images: [],
   },
   {
-    id: 'S',
-    letra: 'S',
+    id: '19',
+    letra: '19',
     docente: 'Karina Neu',
     nombre: '',
     descripcion: '',
@@ -492,21 +503,9 @@ https://padlet.com/camboursclaudia/claudia-cambours-40xl4kbfqwugv5b2
     images: [],
   },
   {
-    id: 'T',
-    letra: 'T',
+    id: '20',
+    letra: '20',
     docente: 'Eduardo Naveira',
-    nombre: 'Fileteando Juntos',
-    descripcion: '',
-    cupos: '',
-    turno: '',
-    redes: '',
-    info: '',
-    images: [],
-  },
-  {
-    id: 'U',
-    letra: 'U',
-    docente: 'Silvia Materyn',
     nombre: '',
     descripcion: '',
     cupos: '',
@@ -516,8 +515,22 @@ https://padlet.com/camboursclaudia/claudia-cambours-40xl4kbfqwugv5b2
     images: [],
   },
   {
-    id: 'V',
-    letra: 'V',
+    id: '21',
+    letra: '21',
+    docente: 'Silvia Materyn',
+    nombre: 'Fileteando Juntos',
+    descripcion: '',
+    cupos: '',
+    turno: '',
+    redes: '',
+    info: '',
+    images: [
+      { src: '/images/21/img1.jpeg', alt: 'Imagen del taller 21' },
+    ],
+  },
+  {
+    id: '22',
+    letra: '22',
     docente: 'Andrea Da Ponte',
     nombre: 'Pasta de vidrio moldeado',
     descripcion: '',
@@ -526,6 +539,63 @@ https://padlet.com/camboursclaudia/claudia-cambours-40xl4kbfqwugv5b2
     redes: '',
     info: '',
     images: [],
+  },
+  {
+    id: '23',
+    letra: '23',
+    docente: 'Cuini Chiappero',
+    nombre: '',
+    descripcion: `Docente de Artes Visuales, Ceramista.
+Estudiante de clarinete, Flauta traversa y percusión.
+Villa María Córdoba.
+Autor del libro “Dulce Fuego”`,
+    cupos: '',
+    turno: '',
+    redes: '',
+    info: '',
+    images: [
+      { src: '/images/23/img1.png', alt: 'Imagen del taller 23 1' },
+      { src: '/images/23/img2.png', alt: 'Imagen del taller 23 2' },
+      { src: '/images/23/img3.png', alt: 'Imagen del taller 23 3' },
+    ],
+  },
+  {
+    id: '24',
+    letra: '24',
+    docente: 'Beatriz Trepat',
+    nombre: '',
+    descripcion: '',
+    cupos: '',
+    turno: '',
+    redes: '',
+    info: '',
+    images: [],
+  },
+  {
+    id: '25',
+    letra: '25',
+    docente: 'Laura Rivolta',
+    nombre: 'Pintura Artística sobre Vidrio: Nebulosa Vítrea y Micas Destapadas',
+    descripcion: `Soy artista del vidrio y docente con más de 20 años de experiencia, especializada en técnicas de horno y vitrofusión, caída libre, termoformado, casting, pasta de vidrio, y trabajo con soplete. Me formé con artistas nacionales e internacionales y, a lo largo de los años, desarrollé mis propias técnicas, buscando siempre aportar una mirada personal e innovadora a mi obra. He participado en salones y muestras colectivas y presenté recientemente mi primera muestra individual. Además de crear en mi estudio, brindo clases, seminarios y capacitaciones para artistas y docentes, tanto presenciales como online, y he difundido el arte en vidrio a través de medios de comunicación.`,
+    cupos: '',
+    turno: '',
+    redes: '',
+    info: `Taller:
+“Pintura Artística sobre Vidrio: Nebulosa Vítrea y Micas Destapadas”
+En este taller exploraremos técnicas pictóricas sobre vidrio utilizando polvos de vidrio, fritas, escamas y micas en polvo compatibles con vidrio float. A partir de estas técnicas propias, llamadas Nebulosa Vítrea y Micas Destapadas, trabajaremos la creación de efectos artísticos enfocados en paisajes, con una mirada expresiva y experimental.
+
+El objetivo es que cada participante descubra nuevas posibilidades creativas en la pintura sobre vidrio, aprovechando la transparencia, las texturas y los colores que surgen de la fusión a alta temperatura.
+
+Estas técnicas pueden ser aplicadas en utilitarios y otras piezas renovando la estética de los objetos cotidianos con una impronta artística.`,
+    images: [
+      { src: '/images/25/img1.jpeg', alt: 'Imagen del taller 25 1' },
+      { src: '/images/25/img2.jpeg', alt: 'Imagen del taller 25 2' },
+      { src: '/images/25/img3.jpeg', alt: 'Imagen del taller 25 3' },
+      { src: '/images/25/img4.jpeg', alt: 'Imagen del taller 25 4' },
+      { src: '/images/25/img5.jpeg', alt: 'Imagen del taller 25 5' },
+      { src: '/images/25/img6.jpeg', alt: 'Imagen del taller 25 6' },
+      { src: '/images/25/img7.jpeg', alt: 'Imagen del taller 25 7' },
+    ],
   },
   // Puedes agregar más talleres aquí si es necesario
 ]; 
