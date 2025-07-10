@@ -525,7 +525,9 @@ Desde 2008`,
     redes: '',
     info: '',
     images: [
-      { src: '/images/21/img1.jpeg', alt: 'Imagen del taller 21' },
+      { src: '/images/21/img1.jpeg', alt: 'Imagen del taller 21 1' },
+      { src: '/images/21/img2.jpeg', alt: 'Imagen del taller 21 2' },
+      { src: '/images/21/img3.jpeg', alt: 'Imagen del taller 21 3' },
     ],
   },
   {
