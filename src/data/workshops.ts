@@ -495,12 +495,49 @@ Desde 2008`,
     letra: '19',
     docente: 'Karina Neu',
     nombre: '',
-    descripcion: '',
+    descripcion: `Karina Neu
+Comencé en este apasionante mundo del vidrio allá por el año 2005 donde fue
+que aprendí la técnica del vitral emplomado, de a poco fui comprando mis
+primeras herramientas y haciendo pequeños trabajos, sóltandome y ganando
+confianza , y me fui dando cuenta que quería mas.
+Tres años mas tarde fui a aprender la técnica tyﬀany de cinta de cobre y me
+estuve desarrollando unos años, hasta que, con la idea de hacer mis propios
+vidrios, fui a aprender vitrofusion, y ahí empieza un capítulo aparte.
+Con la vitrofusion no solo podía hacer mis propios vidrios, se abrió todo un mundo
+nuevo, hice un cerramiento en una galería de casa, compré un horno usado y
+armé mi tallercito.
+En el año 2016 hago mi primer importación de polvo de vidrio Optul, costó
+muchísimo que la gente se animara a usarlo cuando sólo se conocía el esmalte
+como técnica para decorar el vidrio.
+Un poquito mas tarde formé @alikavitral, me mudé a un taller mas grande,
+compré otro horno, doy clases a mas personas, y sigo distribuyendo a toda
+américa el polvo de vidrio.
+Todo este camino me llevó a conocer mucha gente a la que admiro
+profundamente, con quienes sigo aprendiendo y tomando cursos, porque todavía
+me falta mucho y porque nunca se termina de aprender….
+
+Descripción del trabajo elegido para enseñar en la bienal:
+Trabajo: BARQUITO DE PAPEL.
+Técnica: Tiﬀany o cinta de cobre
+En estos empos que corren, de inmediatez e inteligencia ar ficial, mi propuesta
+es volver un poquito a lo análogo, a la herramienta y al trabajo manual, al
+barquito de papel de diario que nos hacían para ponerlo a flotar cuando llovía….
+Vamos a hacer un barquito de papel de diario pero de vidrio, con la técnica Tiﬀany
+de cinta de cobre.`,
     cupos: '',
     turno: '',
-    redes: '',
+    redes: '@alikavitral',
     info: '',
-    images: [],
+    images: [
+      { src: '/images/19/img1.jpeg', alt: 'Imagen del taller 19 1' },
+      { src: '/images/19/img2.jpeg', alt: 'Imagen del taller 19 2' },
+      { src: '/images/19/img3.jpeg', alt: 'Imagen del taller 19 3' },
+      { src: '/images/19/img4.jpeg', alt: 'Imagen del taller 19 4' },
+      { src: '/images/19/img5.jpeg', alt: 'Imagen del taller 19 5' },
+      { src: '/images/19/img6.jpeg', alt: 'Imagen del taller 19 6' },
+      { src: '/images/19/img7.jpeg', alt: 'Imagen del taller 19 7' },
+      { src: '/images/19/img8.jpeg', alt: 'Imagen del taller 19 8' },
+    ],
   },
   {
     id: '20',
@@ -641,6 +678,50 @@ Estas técnicas pueden ser aplicadas en utilitarios y otras piezas renovando la 
       { src: '/images/25/img5.jpeg', alt: 'Imagen del taller 25 5' },
       { src: '/images/25/img6.jpeg', alt: 'Imagen del taller 25 6' },
       { src: '/images/25/img7.jpeg', alt: 'Imagen del taller 25 7' },
+    ],
+  },
+  {
+    id: '26',
+    letra: '26',
+    docente: 'Ariel Menniti',
+    nombre: 'Vitrales',
+    descripcion: `📸 Instagram: @arielmenniti_vitrales
+
+⸻
+
+🧑‍🎨 Perfil Profesional
+
+Soy Ariel Menniti, artista vitralista con más de 15 años de trayectoria. Me especializo en la creación y restauración de vitrales artísticos, integrando técnicas tradicionales y contemporáneas. Trabajo tanto en obras religiosas como civiles, buscando siempre respetar el lenguaje arquitectónico y simbólico del espacio.
+
+⸻
+
+🛠️ Técnicas y Estilos que desarrollo
+	• Grisalla y esmaltes sobre vidrio
+	• Emplomado tradicional y Tiffany 
+	• Termofusión y vitrofusión
+	• Pintura figurativa y simbólica
+	• Restauración de vitrales antiguos
+	• Estilos: gótico, neogótico, art nouveau y contemporáneo
+	• Diseño de vitrales para iglesias, museos, residencias, cúpulas, etc.
+
+⸻
+
+🌟 Obras destacadas
+	• Santuario de Lourdes
+	• Museo Colección Gómez Nordelta
+	• Casa Rosada
+	• Mercado de San Telmo
+	• Regimiento de Artillería
+	• Regimiento de Ingenieros
+	• Heraldos del Evangelio
+	• Don Orione
+	• Cura Brochero`,
+    cupos: '',
+    turno: '',
+    redes: '@arielmenniti_vitrales',
+    info: '',
+    images: [
+      { src: '/images/26/img1.jpeg', alt: 'Imagen del taller 26 1' },
     ],
   },
   // Puedes agregar más talleres aquí si es necesario
