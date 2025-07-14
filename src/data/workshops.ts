@@ -60,20 +60,11 @@ Marcela D´Ottavio`,
     letra: '2',
     docente: 'Magda Serna',
     nombre: 'El trencadís de gaudí en el bosque geselino',
-    descripcion: `Taller de mosaico con materiales reciclados.
-Un paseo por el trabajo de Gaudí atravez de las aves que pueblan Villa Gesell.
-Trabajo comunitario que deja una impronta definitiva en el complejo de talleres de cerámica y alfarería municipal. Chin pum.
-
-Magdalena Serna nace en Buenos Aires en la primavera del 72. Hija de la artesana Eva Spiech y el artista plástico Eduardo Serna. Crece en Villa Gesell rodeada de mar y naturaleza. Estudia artes plásticas en la Escuela Nacional de Bellas Artes Prilidiano Pueyrredón (hoy IUNA), donde incorpora teorías y prácticas en historia del arte, pintura, escultura, figura viva y exteriores.
-
-Trabaja durante varios años en el taller de Cristina Dartiguelongue, aprende el arte aplicado a la decoración, técnicas específicas como las pátinas, la imitación de materiales nobles y hace sus primeros pasos en el trampantojo. En la década de los ’90 comienza a desarrollar su carrera en Buenos Aires y aplica sus conocimientos en diferentes espacios privados y restaurantes como Cherubino, Garbis, Amarello y Heriberto en el barrio de Belgrano; Portezuelo y Parada Norte en Recoleta; Spell Café en Puerto Madero, entre otros…
-
-Inicia un viaje por el mundo en búsqueda de colores y formas nuevas. Se instala en el barrio de Poblenou de Barcelona, incursiona en el arte del mosaico y conecta con esta técnica de forma definitiva. Su trabajo evoluciona creando con la fusión entre mosaico, pintura y collage, uno de sus sellos personales.
-
-Hoy divide el tiempo entre su nuevo taller en el barrio del Serrallo de Tarragona -en España- y el pueblo que la vio crecer, Villa Gesell, donde se encuentra junto a su familia desarrollando el proyecto más significativo de su carrera: se trata de un gran mural, un enorme mosaico que cubrirá la propiedad en donde funciona el negocio que fundaran sus abuelos en el año 1956, Gema Cosas Raras.
-
-La obra también abarcará la ampliación del Museo que expone importantes contenidos arqueológicos, fósiles, anatomía animal, una amplia colección de caracoles y por supuesto, la historia de un pequeño gran sueño…hecho realidad.
-`,
+    descripcion: `Estudié en la Escuela Nacional de Bellas artes Prilidiano Pueyrredón,y también incorporé técnicas aplicadas a la decoración. 
+Después de mucho viajar,estudiando colores y posibilidades,desarrollé una larga carrera como artista decorativa en la ciudad de Barcelona, haciendo de restaurantes y casas particulares,una exposición de mis obras.
+Así conocí a Gaudí y su mundo mágico de cerámica inspirada en la naturaleza.
+Hoy,basándome en esa premisa, es que estamos aquí en el bosque.
+MAGDALENASERNA.NET`,
     cupos: '',
     turno: '',
     redes: '',
@@ -377,7 +368,19 @@ Sus obras forman parte de importantes colecciones de museos e instituciones en B
     letra: '12',
     docente: 'Laura Ospina - Laura Henao Monsalve',
     nombre: 'Cerámica sonora inspirada en el arte prehispánico',
-    descripcion: '',
+    descripcion: `Laura Vanessa Ospina Bedoya:
+
+OSSINISSA ALFARERÍA, es un proyecto de alfarería tradicional que nace en 2019
+y que se mantiene vigente, el enfoque de este se ha centrado en reconocer las
+técnicas y las manifestaciones cerámicas precolombinas del territorio colombiano
+y de sus periferias. A través del estudio, en museos, de arqueología de diferentes
+artefactos cerámicos he procurado encontrar mi estilo y resolver mis inquietudes
+que inquieren sobre la presencia femenina y el placer en las representaciones
+cerámicas.
+
+Laura Henao Monsalve:
+
+Desde el 2021 inicié mi proceso de aprendizaje cerámico en el taller de Ossinissa alfarería, aprendiendo diferentes técnicas asociadas al arte cerámico prehispánico tanto de Colombia como del resto de América. Lo que me ha permitido hacer parte de procesos formativos informales desempeñando funciones de enseñanza y acompañamiento en talleres de formación cerámica tradicional.`,
     cupos: '',
     turno: '',
     redes: '',
