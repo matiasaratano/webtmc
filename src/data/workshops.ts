@@ -507,12 +507,56 @@ Desde 2008`,
     letra: '20',
     docente: 'Eduardo Naveira',
     nombre: '',
-    descripcion: '',
+    descripcion: `Nombre: Eduardo Naveira
+Edad: 62 años
+Nacionalidad: Argentino
+
+Estudios:
+
+Diseño gráfico, en Escuela Panamericana de Arte. 
+Fotografía, en el Foto Club Buenos Aires. 
+Dirección de Cine, en ENERC, dependiente del Instituto Nacional de Cine. 
+
+Formación en el arte en  vidrio: 
+Me formé en talleres especializados de Argentina y tomé seminarios con artistas internacionales del vidrio como Silvia Levenson, Andrea Da Ponte, Eduardo Nieto, Karina Del Savio, Débora Gurman y Marco Romero, Sol Abbadi entre otros. 
+Trabajo como artista del vidrio hace 10 años y doy clases enseñando a otros artesanos y artistas diferentes técnicas de trabajar el vidrio. He dado seminarios de capacitación en CABA, Córdoba, Santa Fe, Mendoza, Chaco, Salta, La Rioja y La Plata, durante la pandemia en forma virtual a artesanos y artistas de numerosos países alrededor del mundo. 
+
+Exposiciones en las que he participado:
+
+2012. Galeria Solange Guez Arte Contemporáneo 
+2014. Salón Nacional del Vidrio en Berazategui. Mención de honor. 
+2015. Artista invitado en la muestra colectiva del taller de Daniela Fabian de arte en vidrio. 
+2018. Muestra colectiva en el Morán, Quememos todo. 
+2018. Reina Kunti un espacio para el arte. 
+2020. Seleccionado para la muestra virtual organizada por la Asociación del vidrio de Polonia (Zaz). 
+2022. Artista invitado en la muestra del artista Pablo Schapira, Alma ecléctica, en Capdepont Antiques. 
+2022. Artista invitado por el Comité Organizador  a la 1ra Bienal Internacional de Arte en Vidrio de Iberoamérica (BIAVI) en Costa Rica. 
+2022. Obra seleccionada por el Salón Nacional de Artes Visuales 2022. Jardín Seta. 
+2023 Proyecto Camitas
+2023 Exposición/Charla "El proceso creativo y el vidrio", en la Escuela Municipal de Vidrio de Berazategui. 
+2023 También en ese año fui parte de la instalación en Casa FOA, compartida con destacados artistas de vidrio, y organizada por Guillermo Patiño, Pablo Schapira y Mariela De Mario. 
+
+En el año 1998 como director de cine y por la realización del cortometraje La risa de Ana, recibí la Mención de Honor del festival DERHUMALC, Fundación por los Derechos Humanos en América Latina y el Caribe. 
+Por el mismo cortometraje fui seleccionado para participar del Festival de Cine Latinoamericano de La Habana, Cuba y por el Festival de graduados de escuelas de Cine realizado en Sao Pablo, Brasil. 
+
+Cómo diseñador gráfico he participado y obtenido diversas distinciones a lo largo de los años en que ejercí a pleno dicha profesión, ganando el primer premio en el llamado a concurso para crear la marca de Cultura Abasto en el año 2009.
+
+Redes donde ver mi obra artística y trabajo docente:
+
+IG: @eduardonaveira 
+Web: edunaveir5.wix.com/naveiraglassdesign
+Facebook: Naveira Glass Design, Nave Interior`,
     cupos: '',
     turno: '',
-    redes: '',
-    info: '',
-    images: [],
+    redes: 'IG: @eduardonaveira',
+    info: 'Web: edunaveir5.wix.com/naveiraglassdesign | Facebook: Naveira Glass Design, Nave Interior',
+    images: [
+      { src: '/images/20/img1.jpeg', alt: 'Imagen del taller 20 1' },
+      { src: '/images/20/img2.jpeg', alt: 'Imagen del taller 20 2' },
+      { src: '/images/20/img3.jpeg', alt: 'Imagen del taller 20 3' },
+      { src: '/images/20/img4.jpeg', alt: 'Imagen del taller 20 4' },
+      { src: '/images/20/img5.jpeg', alt: 'Imagen del taller 20 5' },
+    ],
   },
   {
     id: '21',
