@@ -149,10 +149,11 @@ A partir de la química cerámica como disparador y desde la imagen y la palabra
 Engobes, texturas y transferencias
 Color, imagen y palabra 
 Y el soporte que nos sostiene, la Tierra
+
 `,
     cupos: '',
     turno: '',
-    redes: '',
+    redes: 'https://www.instagram.com/ceramicavivigendre/',
     info: '',
     images: [
       { src: '/images/5/img1.jpg', alt: 'Imagen del taller 5 1' },
@@ -163,7 +164,7 @@ Y el soporte que nos sostiene, la Tierra
     id: '6',
     letra: '6',
     docente: 'Gloria Rodriguez',
-    nombre: 'Experiencia serigrafía sobre el objeto cerámico crudo',
+    nombre: 'Experiencia serigráfica sobre el objeto cerámico crudo',
     descripcion: `Artista ceramista, Profesora. Licenciada en Artes Visuales- Artes del Fuego (UNA). Maestra Joyera.
 
 Nacida en 1961, Rosales- Provincia de Córdoba. Argentina
@@ -304,7 +305,7 @@ Luciano y Sol trabajan la cerámica desde hace más de 16 años. Han desarrollad
     letra: '9',
     docente: 'Daysi Linares',
     nombre: 'Moldería',
-    descripcion: `Perfil Profesional
+    descripcion: `
 Profesora de cerámica con más de 11 años de experiencia en docencia artística. Especializada en técnicas de diseño, serialización, decoración cerámica, moldería y vitral. Con vocación por la enseñanza y el trabajo colectivo, ha desarrollado talleres para diversas instituciones y participado en encuentros binacionales y nacionales relacionados con el arte cerámico y la integración cultural.`,
     cupos: '',
     turno: '',
@@ -324,7 +325,10 @@ Profesora de cerámica con más de 11 años de experiencia en docencia artístic
     turno: '',
     redes: '',
     info: '',
-    images: [],
+    images: [
+      { src: '/images/10/img1.png', alt: 'Imagen del taller 10 1' },
+      { src: '/images/10/img2.png', alt: 'Imagen del taller 10 2' },
+    ],
   },
   {
     id: '11',
@@ -410,8 +414,6 @@ En el año 2012 le otorgan el premio-mención en el II Salón Cerámico De La Bi
 En el año 2022 recibió el Primer Premio en Arte Cerámico en Salón Anual Internacional De Cerámica CAAC 2022 y en el 2023 el Gran Premio de Honor de la misma institución.
 Se desempeñó como asistente de curaduría en el Área De Museografía en el Museo Sivori, como curadora en el  Centro Arte Contemporáneo Chacra De Los Remedios Parque Avellaneda y hasta la actualidad es docente del taller de cerámica del mismo espacio.
 
-Instagram :@claudiacambours
-https://padlet.com/camboursclaudia/claudia-cambours-40xl4kbfqwugv5b2
 `,
     cupos: '',
     turno: '',
@@ -432,9 +434,13 @@ https://padlet.com/camboursclaudia/claudia-cambours-40xl4kbfqwugv5b2
     descripcion: '',
     cupos: '',
     turno: '',
-    redes: '',
+    redes: '@https://www.instagram.com/marianomungo',
     info: '',
-    images: [],
+    images: [
+      { src: '/images/14/img1.png', alt: 'Imagen del taller 14 1' },
+      { src: '/images/14/img2.png', alt: 'Imagen del taller 14 2' },
+      { src: '/images/14/img3.png', alt: 'Imagen del taller 14 3' },
+    ],
   },
   {
     id: '15',
@@ -464,12 +470,28 @@ Desde 2008`,
     letra: '16',
     docente: 'Karina del Savio',
     nombre: 'Vitrofusión',
-    descripcion: '',
+    descripcion: `KARINA DEL SAVIO
+
+En Buenos Aires, a mediados de 1970 en el seno de una familia Italo-Argentina nace Karina Del Savio.
+
+Desde muy temprana edad refleja su pasión por el dibujo. Su madre, pintora, ceramista y amante del arte, la estimula y acerca al fascinante mundo de los lápices, papeles, acuarelas y libros de pintura.
+
+A los 8 años, frente a su inquietud, asiste a clases de dibujo en un taller cercano a su casa donde intercambiaba experiencias con otros niños de su edad. En menos de un mes Karina dibujaba una figura humana y su profesor sugiere cambiarla a un grupo de alumnos avanzados. Al poco tiempo asiste a estas nuevas clases pero una notable diferencia de edad le impide adaptarse y Karina deja de dibujar. Sólo lo hace en momentos en que nadie la ve siendo su madre la única testigo de su trabajo.
+
+A los 17 años ingresa en el conservatorio de Arte Dramático, dónde encuentra especial interés por las técnicas escenográficas y descubre la importancia de la luz: “aprendí que en el teatro la luz materializa el espacio”. A los 22 años retoma definitivamente la actividad plástica: ingresa a estudiar en la escuela de vidrio de Berazategui donde encuentra no sólo un espacio de aprendizaje sino también de creación. Allí cursa los tres años de enseñanza y pronto es contratada como ayudante en la sala de hornos. Aprende a trabajar el vidrio de la mano de Amalia García, (ex-directora de la escuela de vidrio de Berazategui) y de todo su equipo de profesores. Más tarde toma clases con Silvia Levenson, Miriam Difiere, Eduardo Osimani y Santiago Sanz Llorente, quienes le enseñan las primeras notas del arte en vidrio. Su curiosidad y su persistente búsqueda de del desarrollo de nuevas técnicas la llevan a la “Cristalería El Progreso”, donde dictas clases teóricas junto a los más destacados operarios. De esta experiencia, y del contacto directo con la fábrica, adquiere el conocimiento del desplazamiento del vidrio dentro del horno y de sus posibilidades estéticas. Comienza el desarrollo de su producción artística.
+
+A partir de 1998, sus obras de arte y objetos funcionales se muestran en importantes empresas de diseño de interiores y arquitectura. Desde entonces perfecciona sus conocimientos de la producción artesanal. Sus abras artísticas se exponen en eventos como SOFA (USA), e integran colecciones en todo el mundo.
+
+Actualmente se encuentra dirigiendo su taller cuyo foco es la producción de exclusivos objetos artesanales de altísima calidad. Divide su tiempo entre la creación, la experimentación, y el aprendizaje constante.`,
     cupos: '',
     turno: '',
     redes: '',
     info: '',
-    images: [],
+    images: [
+      { src: '/images/16/img1.jpg', alt: 'Imagen del taller 16 1' },
+      { src: '/images/16/img2.jpg', alt: 'Imagen del taller 16 2' },
+      { src: '/images/16/img3.jpg', alt: 'Imagen del taller 16 3' },
+    ],
   },
   {
     id: '17',
@@ -500,7 +522,7 @@ Desde 2008`,
     letra: '19',
     docente: 'Karina Neu',
     nombre: '',
-    descripcion: `Karina Neu
+    descripcion: `
 Comencé en este apasionante mundo del vidrio allá por el año 2005 donde fue
 que aprendí la técnica del vitral emplomado, de a poco fui comprando mis
 primeras herramientas y haciendo pequeños trabajos, sóltandome y ganando
@@ -549,11 +571,7 @@ de cinta de cobre.`,
     letra: '20',
     docente: 'Eduardo Naveira',
     nombre: '',
-    descripcion: `Nombre: Eduardo Naveira
-Edad: 62 años
-Nacionalidad: Argentino
-
-Estudios:
+    descripcion: `
 
 Diseño gráfico, en Escuela Panamericana de Arte. 
 Fotografía, en el Foto Club Buenos Aires. 
@@ -585,9 +603,7 @@ Cómo diseñador gráfico he participado y obtenido diversas distinciones a lo l
 
 Redes donde ver mi obra artística y trabajo docente:
 
-IG: @eduardonaveira 
-Web: edunaveir5.wix.com/naveiraglassdesign
-Facebook: Naveira Glass Design, Nave Interior`,
+`,
     cupos: '',
     turno: '',
     redes: 'IG: @eduardonaveira',
@@ -621,12 +637,17 @@ Facebook: Naveira Glass Design, Nave Interior`,
     letra: '22',
     docente: 'Andrea Da Ponte',
     nombre: 'Pasta de vidrio moldeado',
-    descripcion: '',
+    descripcion: `Artista en Vidrio. Docente`,
     cupos: '',
     turno: '',
     redes: '',
     info: '',
-    images: [],
+    images: [
+      { src: '/images/22/img1.jpeg', alt: 'Imagen del taller 22 1' },
+      { src: '/images/22/img2.png', alt: 'Imagen del taller 22 2' },
+      { src: '/images/22/img3.png', alt: 'Imagen del taller 22 3' },
+      { src: '/images/22/img4.png', alt: 'Imagen del taller 22 4' },
+    ],
   },
   {
     id: '23',
@@ -652,42 +673,30 @@ Autor del libro “Dulce Fuego”`,
     letra: '24',
     docente: 'Beatriz Trepat',
     nombre: '',
-    descripcion: '',
+    descripcion: `Nació en 1965, Rosario, Prov. de Santa Fe. En Rosario estudió en la Escuela Provincial de Artes Visuales y en la Universidad Nacional de
+Rosario, con especialidad en grabado y cerámica, egresando del Magisterio en 1986; continuó su formación en los talleres de Carlos Cantore y Dante Alberro. En París, ciudad en la que se radicó
+a fines de los ochenta, se especializó en esmaltes de alta temperatura en el taller de Helena Klug.
+
+Con una intensa actividad docente y artística, ha participado en numerosas muestras y eventos. Se destacan de los últimos años: ́Fricciones ́(2018) y ́Parabiosis ́(2023) en galería Subsuelo, Pinta Parc Lima (2024), Pinta Miami (2023) Arteba (2023); Céramique 14, París; Grès Contemporain, Saint Amand, Puisaye; Journées de la Céramique à Saint Sulpice, París (2011); Keramikos Festival de Cerámica, Bracciano, Italia; Bienal de Andenne, Bélgica (2010); Festival Terramicales, París; Festival Internacional de Cerámica Multiplex, Varazdin, Croacia (2009);
+Bienal de Cerámica Contemporánea, Sèvres (2008); Bienal de Carouge, Suiza; Terres Mêlées, Le Lavoir, Clamart (2007); Bienal de Cerámica Contemporánea, Troyes (2005).
+
+Su obra integra las colecciones públicas del Museo Mandet, Riom, Francia y del Museo de Cerámica, Varazdin, Croacia.
+
+Vive y trabaja en París, Francia.`,
     cupos: '',
     turno: '',
     redes: '',
     info: '',
-    images: [],
+    images: [
+      { src: '/images/24/img1.jpg', alt: 'Imagen del taller 24 1' },
+      { src: '/images/24/img2.png', alt: 'Imagen del taller 24 2' },
+      { src: '/images/24/img3.jpg', alt: 'Imagen del taller 24 3' },
+      { src: '/images/24/img4.png', alt: 'Imagen del taller 24 4' },
+    ],
   },
   {
     id: '25',
     letra: '25',
-    docente: 'Laura Rivolta',
-    nombre: 'Pintura Artística sobre Vidrio: Nebulosa Vítrea y Micas Destapadas',
-    descripcion: `Soy artista del vidrio y docente con más de 20 años de experiencia, especializada en técnicas de horno y vitrofusión, caída libre, termoformado, casting, pasta de vidrio, y trabajo con soplete. Me formé con artistas nacionales e internacionales y, a lo largo de los años, desarrollé mis propias técnicas, buscando siempre aportar una mirada personal e innovadora a mi obra. He participado en salones y muestras colectivas y presenté recientemente mi primera muestra individual. Además de crear en mi estudio, brindo clases, seminarios y capacitaciones para artistas y docentes, tanto presenciales como online, y he difundido el arte en vidrio a través de medios de comunicación.`,
-    cupos: '',
-    turno: '',
-    redes: '',
-    info: `Taller:
-“Pintura Artística sobre Vidrio: Nebulosa Vítrea y Micas Destapadas”
-En este taller exploraremos técnicas pictóricas sobre vidrio utilizando polvos de vidrio, fritas, escamas y micas en polvo compatibles con vidrio float. A partir de estas técnicas propias, llamadas Nebulosa Vítrea y Micas Destapadas, trabajaremos la creación de efectos artísticos enfocados en paisajes, con una mirada expresiva y experimental.
-
-El objetivo es que cada participante descubra nuevas posibilidades creativas en la pintura sobre vidrio, aprovechando la transparencia, las texturas y los colores que surgen de la fusión a alta temperatura.
-
-Estas técnicas pueden ser aplicadas en utilitarios y otras piezas renovando la estética de los objetos cotidianos con una impronta artística.`,
-    images: [
-      { src: '/images/25/img1.jpeg', alt: 'Imagen del taller 25 1' },
-      { src: '/images/25/img2.jpeg', alt: 'Imagen del taller 25 2' },
-      { src: '/images/25/img3.jpeg', alt: 'Imagen del taller 25 3' },
-      { src: '/images/25/img4.jpeg', alt: 'Imagen del taller 25 4' },
-      { src: '/images/25/img5.jpeg', alt: 'Imagen del taller 25 5' },
-      { src: '/images/25/img6.jpeg', alt: 'Imagen del taller 25 6' },
-      { src: '/images/25/img7.jpeg', alt: 'Imagen del taller 25 7' },
-    ],
-  },
-  {
-    id: '26',
-    letra: '26',
     docente: 'Ariel Menniti',
     nombre: 'Vitrales',
     descripcion: `📸 Instagram: @arielmenniti_vitrales
@@ -745,13 +754,16 @@ Cursé estudios de Patrimonio en el CICOP y la Universidad Torcuato Di Tella y a
 
 En 2019 recibí el Primer Premio en Patrimonio del Fondo Nacional de las Artes por el proyecto de restauración de la cúpula de vitrales del Círculo Militar – Ex Palacio Paz. Además, soy miembro del Comité Científico Internacional para la Conservación de Vitrales de ICOMOS Internacional y Asesora Honoraria de la Comisión Nacional de Monumentos, de Lugares y de Bienes Históricos.
 
-Farina Ruiz, Maria Paula.-
-www.linkedin.com/in/farinaruiz`,
+`,
     cupos: '',
     turno: '',
     redes: 'www.linkedin.com/in/farinaruiz',
     info: '',
-    images: [],
+    images: [
+      { src: '/images/27/img1.avif', alt: 'Imagen del taller 27 1' },
+      { src: '/images/27/img2.jpeg', alt: 'Imagen del taller 27 2' },
+      { src: '/images/27/img3.jpg', alt: 'Imagen del taller 27 3' },
+    ],
   },
   // Puedes agregar más talleres aquí si es necesario
 ]; 
