@@ -727,5 +727,29 @@ Soy Ariel Menniti, artista vitralista con más de 15 años de trayectoria. Me es
       { src: '/images/26/img1.jpeg', alt: 'Imagen del taller 26 1' },
     ],
   },
+  {
+    id: '27',
+    letra: '27',
+    docente: 'Farina Ruiz, Maria Paula.-',
+    nombre: 'Pintura Medieval sobre Vidrio',
+    descripcion: `Taller Intensivo
+
+Sumergite en el arte de la pintura medieval sobre vidrio. En este taller intensivo de dos jornadas (8 horas en total), aprenderás a realizar un vitral rectangular de 27 x 19 cm, compuesto por piezas de vidrio de colores y una imagen medieval inspirada en vitrales góticos reales, de distintas catedrales. Combinaremos teoría e historia de la técnica grisalla tradicional con práctica directa sobre el vidrio, abordando el uso de pigmentos, pinceles, métodos de aplicación y horneado. No se requieren conocimientos previos: el taller está pensado para quienes deseen iniciarse en este oficio artístico y descubrir los secretos de un arte milenario.
+
+MARÍA PAULA FARINA RUIZ
+Soy Técnica Superior en Vitrales, formada en el Instituto Superior Catedral de La Plata. Me especialicé en conservación y restauración de vitrales en el Centre International du Vitrail de Chartres (Francia), donde también realicé prácticas en la catedral Notre-Dame de Chartres y me perfeccioné en técnica de grisalla y vitral contemporáneo.
+
+Cursé estudios de Patrimonio en el CICOP y la Universidad Torcuato Di Tella y actualmente curso la Maestría en Conservación y Restauración de Bienes Artísticos y Bibliográficos en la Universidad Nacional de San Martín.
+
+En 2019 recibí el Primer Premio en Patrimonio del Fondo Nacional de las Artes por el proyecto de restauración de la cúpula de vitrales del Círculo Militar – Ex Palacio Paz. Además, soy miembro del Comité Científico Internacional para la Conservación de Vitrales de ICOMOS Internacional y Asesora Honoraria de la Comisión Nacional de Monumentos, de Lugares y de Bienes Históricos.
+
+Farina Ruiz, Maria Paula.-
+www.linkedin.com/in/farinaruiz`,
+    cupos: '',
+    turno: '',
+    redes: 'www.linkedin.com/in/farinaruiz',
+    info: '',
+    images: [],
+  },
   // Puedes agregar más talleres aquí si es necesario
 ]; 
