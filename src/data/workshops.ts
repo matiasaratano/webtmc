@@ -60,10 +60,10 @@ Marcela D´Ottavio`,
     letra: '2',
     docente: 'Magda Serna',
     nombre: 'El trencadís de gaudí en el bosque geselino',
-    descripcion: `Estudié en la Escuela Nacional de Bellas artes Prilidiano Pueyrredón,y también incorporé técnicas aplicadas a la decoración. 
-Después de mucho viajar,estudiando colores y posibilidades,desarrollé una larga carrera como artista decorativa en la ciudad de Barcelona, haciendo de restaurantes y casas particulares,una exposición de mis obras.
+    descripcion: `Estudié en la Escuela Nacional de Bellas artes Prilidiano Pueyrredón, y también incorporé técnicas aplicadas a la decoración. 
+Después de mucho viajar, estudiando colores y posibilidades,desarrollé una larga carrera como artista decorativa en la ciudad de Barcelona, haciendo de restaurantes y casas particulares,una exposición de mis obras.
 Así conocí a Gaudí y su mundo mágico de cerámica inspirada en la naturaleza.
-Hoy,basándome en esa premisa, es que estamos aquí en el bosque.
+Hoy, basándome en esa premisa, es que estamos aquí en el bosque.
 MAGDALENASERNA.NET`,
     cupos: '',
     turno: '',
@@ -73,6 +73,8 @@ MAGDALENASERNA.NET`,
       { src: '/images/2/img1.jpg', alt: 'Imagen del taller 2 1' },
       { src: '/images/2/img2.jpg', alt: 'Imagen del taller 2 2' },
       { src: '/images/2/3.jpg', alt: 'Imagen del taller 2 3' },
+      { src: '/images/2/img4.png', alt: 'Imagen del taller 2 4' },
+      { src: '/images/2/img5.jpg', alt: 'Imagen del taller 2 5' },
     ],
   },
   {
