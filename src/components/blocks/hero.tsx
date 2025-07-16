@@ -17,6 +17,14 @@ export function Hero() {
               </p>
             </div>
             <img src="/images/logo.gif" alt="Logo" className="w-1/4" />
+            <a
+              href="https://bienalvg.web.app/index.html"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="mt-4 inline-block px-6 py-3 text-lg font-semibold text-white bg-black rounded-full shadow hover:bg-gray-800 transition-colors"
+            >
+              Formulario de inscripción
+            </a>
           </div>
           <div className="grid grid-cols-2 gap-8 w-full">
             <div className="relative aspect-square rounded-md overflow-hidden">
