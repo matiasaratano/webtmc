@@ -652,20 +652,37 @@ Redes donde ver mi obra artística y trabajo docente:
   {
     id: '23',
     letra: '23',
-    docente: 'Cuini Chiappero',
-    nombre: '',
-    descripcion: `Docente de Artes Visuales, Ceramista.
-Estudiante de clarinete, Flauta traversa y percusión.
-Villa María Córdoba.
-Autor del libro “Dulce Fuego”`,
+    docente: 'Dulce Fuego',
+    nombre: 'Dulce Fuego',
+    descripcion: `Día 1 por la mañana
+Construcción de 2 hornos de 18 ladrillos para hornear con guano y carbón
+Día 2 por la tarde
+Construcción de un horno cuadrado o hexagonal para quema a leña.
+Construcción de un hornito de 4 ladrillos para bizcochar con carbón
+En ambas quemas mientras se desarrollan las mismas se responden las dudas y consultas que las participantes tengan, incluyendo una explicación de cómo hacer pastas para fuego directo (Y Distintas fórmulas) y cómo se prensa en cartón para quemas cerámica
+Los cuatro hornos se abren luego de una media hora aproximada de haber terminado la quema.
+PIEZAS DE LAS PARTICIPANTES
+DEBEN SER DE TAMAÑO CHICO, NO MAS DE 8 CM DE DIÁMETRO, HECHAS CON PASTA PARA FUEGO DIRECTO. Se pueden traer bruñidas o con engobes, BIEN SECAS Y DE ESPESOR CHICO (NO MAS DE 5 MM)
+
+
+Rubén Darío Chiappero
+Nació en Córdoba, Argentina en
+1958.
+Docente de Artes Visuales.
+Autor del libro “Dulce Fuego” Hornos para cerámica
+Realizó diversas capacitaciones con renombrados maestros ceramistas
+de Argentina y otros países., como Adriana Martínez, Alejandro Gregorio, Hernán Vargas, Maneno, Kyoong Woo Im, Alvaro Borrazas Pollak, Victoria Morando, Maria Eugenia Brusco , entre tantos Ceramistas que me transmitieron sus saberes.
+Impartió cursos y seminarios en
+forma presencial y virtual entre ellos en la Escuela de Cerámica Arranz de Córdoba en los años 2015, 2017 y 2019.
+En los últimos años su tarea principal es la investigación sobre pastas cerámicas con diversos antiplásticos no convencionales, formulaciones de esmaltes de cenizas y la creación de hornos para uso cerámico con ladrillos comunes de obra de variados diseños, usando diversos biocombustibles para las quemas. También la experimentación continua en casetas especiales para microondas.`,
     cupos: '',
     turno: '',
     redes: '',
     info: '',
     images: [
       { src: '/images/23/img1.png', alt: 'Imagen del taller 23 1' },
-      { src: '/images/23/img2.png', alt: 'Imagen del taller 23 2' },
-      { src: '/images/23/img3.png', alt: 'Imagen del taller 23 3' },
+      { src: '/images/23/img2.jpeg', alt: 'Imagen del taller 23 2' },
+      { src: '/images/23/img3.jpeg', alt: 'Imagen del taller 23 3' },
     ],
   },
   {
