@@ -391,7 +391,11 @@ Desde el 2021 inicié mi proceso de aprendizaje cerámico en el taller de Ossini
     turno: '',
     redes: '',
     info: '',
-    images: [],
+    images: [
+      { src: '/images/12/img1.png', alt: 'Imagen del taller 12 1' },
+      { src: '/images/12/img2.png', alt: 'Imagen del taller 12 2' },
+      { src: '/images/12/img3.png', alt: 'Imagen del taller 12 3' },
+    ],
   },
   {
     id: '13',
@@ -497,13 +501,39 @@ Actualmente se encuentra dirigiendo su taller cuyo foco es la producción de exc
     id: '17',
     letra: '17',
     docente: 'Juanjo Izaguirre',
-    nombre: '',
-    descripcion: '',
+    nombre: 'Recuperación de la escultura ´Adolescencia” del Maestro Vicente Puig',
+    descripcion: `Juan José Izaguirre es ceramista, docente, músico y escritor. Nació en Buenos Aires en 1961.
+
+Comenzó sus estudios en la (entonces) Escuela Nacional de Cerámica, egresando como Técnico en Cerámica Artística en 1980, como Profesor Nacional de Cerámica Artística en 1982.
+
+Paralelamente a sus estudios, desde muy joven trabajó en pequeñas fábricas y talleres, como Cerámicas Campichuelo (1977) y Manufacturas Cerámicas Bresser (1978); y entre 1979 y 1983 en el taller de la ceramista Teodolina García Cabo.
+
+Entre 1983 y 1996, desarrolló su actividad en su propio taller dedicándose a la reproducción cerámica, la enseñanza, la investigación y el desarrollo de su propia obra artística.
+
+Participó en exposiciones individuales y colectivas, obteniendo premios y menciones en diferentes salones.
+
+Como docente, se inició en la Escuela de Educación Estética N° 1 de Ramos Mejía, en 1984, y al año siguiente ingresó como tal a la (entonces) Escuela Nacional de Cerámica, desempeñándose como docente de las materias Taller Cerámico, Modelado, Moldería y Dibujo hasta 1995.
+
+Entre 1995 y 2011 no tuvo actividad en el ámbito de la Cerámica, ni en la docencia.
+
+En 2011, regresó a la docencia en la actual Escuela Superior de Enseñanza Artística en Cerámica N°1, de la Ciudad Autónoma de Buenos Aires, donde se desempeña actualmente como profesor de la materia Moldería, en los ciclos de Técnico en Cerámica Artística y Auxiliares de Taller.
+
+Paralelamente, como músico ha participado de diversos proyectos como autor, compositor y cantante; y ha publicado los álbumes “Vagos y mal entretenidos” (junto a Guillermo Roffé, en 2013) y “Qué menos, qué más” (en 2022). Ambos con canciones propias y “en complicidad”.
+
+Como escritor, ha participado en diversas antologías del género “cuento”, en Argentina, España y México; y como “ghost-writter” en proyectos institucionales. Ha publicado “Objetos perdidos” (cuentos, Ediciones Bao-Bab, 2003) y “Miradas y voces” (conversaciones con artistas plásticos, Organización de Estados Iberoamericanos, 2024), que puede descargarse gratuitamente desde la página https://oei.int/oficinas/argentina/publicaciones/miradas-y-voces-una-publicacion-del-espacio-cultural-de-la-oei-en-argentina/
+
+ 
+
+Vive en Caballito (el lugar donde siempre quiso vivir). Vane lo aguanta desde hace trece años (¡todo un record!, comentan en el vecindario). Hace 38 años, es el papá de Alejo “grande”, el mejor profesor de música de California. Y, -según declaran los propios damnificados-; es el “Papá adoptado” por Alejo “chico” y Morena.
+`,
     cupos: '',
     turno: '',
     redes: '',
     info: '',
-    images: [],
+    images: [
+      { src: '/images/17/img1.jpeg', alt: 'Imagen del taller 17 1' },
+      { src: '/images/17/img2.jpeg', alt: 'Imagen del taller 17 2' },
+    ],
   },
   {
     id: '18',
@@ -570,7 +600,7 @@ de cinta de cobre.`,
     id: '20',
     letra: '20',
     docente: 'Eduardo Naveira',
-    nombre: '',
+    nombre: 'Cerámica, Vidrio y Caídas Libres Controladas',
     descripcion: `
 
 Diseño gráfico, en Escuela Panamericana de Arte. 
@@ -758,8 +788,8 @@ Soy Ariel Menniti, artista vitralista con más de 15 años de trayectoria. Me es
   {
     id: '27',
     letra: '27',
-    docente: 'Farina Ruiz, Maria Paula.-',
-    nombre: 'Pintura Medieval sobre Vidrio',
+    docente: 'Farina Ruiz, Maria Paula',
+    nombre: 'Pintura Medieval para vitrales',
     descripcion: `Taller Intensivo
 
 Sumergite en el arte de la pintura medieval sobre vidrio. En este taller intensivo de dos jornadas (8 horas en total), aprenderás a realizar un vitral rectangular de 27 x 19 cm, compuesto por piezas de vidrio de colores y una imagen medieval inspirada en vitrales góticos reales, de distintas catedrales. Combinaremos teoría e historia de la técnica grisalla tradicional con práctica directa sobre el vidrio, abordando el uso de pigmentos, pinceles, métodos de aplicación y horneado. No se requieren conocimientos previos: el taller está pensado para quienes deseen iniciarse en este oficio artístico y descubrir los secretos de un arte milenario.
@@ -780,6 +810,7 @@ En 2019 recibí el Primer Premio en Patrimonio del Fondo Nacional de las Artes p
       { src: '/images/27/img1.avif', alt: 'Imagen del taller 27 1' },
       { src: '/images/27/img2.jpeg', alt: 'Imagen del taller 27 2' },
       { src: '/images/27/img3.jpg', alt: 'Imagen del taller 27 3' },
+      { src: '/images/27/img4.jpeg', alt: 'Imagen del taller 27 4' },
     ],
   },
   // Puedes agregar más talleres aquí si es necesario

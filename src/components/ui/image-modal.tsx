@@ -39,7 +39,7 @@ export function ImageModal({ src, alt, images }: ImageModalProps) {
           src={src} 
           alt={alt} 
           layout="fill" 
-          objectFit="cover" 
+          style={{ objectFit: 'cover' }}
           className="rounded-lg transition-transform hover:scale-105" 
         />
       </div>
