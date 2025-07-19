@@ -64,7 +64,14 @@ Marcela D´Ottavio`,
 Después de mucho viajar, estudiando colores y posibilidades,desarrollé una larga carrera como artista decorativa en la ciudad de Barcelona, haciendo de restaurantes y casas particulares,una exposición de mis obras.
 Así conocí a Gaudí y su mundo mágico de cerámica inspirada en la naturaleza.
 Hoy, basándome en esa premisa, es que estamos aquí en el bosque.
-MAGDALENASERNA.NET`,
+MAGDALENASERNA.NET
+
+La interacción entre  naturaleza y arte, hace de este taller una experiencia de fusión armoniosa, llena de información e inspiración!
+En el medio del bosque, representaremos atravez de la técnica del mosaico trencadís, las distintas especies de aves que habitan  bosque,  playa y campo,dejando una huella de enseñanza y profundo respeto hacia el conocimiento  de la naturaleza que nos rodea.
+Hemos comenzado un mural proyectándolo en el tiempo y este es el tercer encuentro sobre la misma pared,que va creciendo con la intervención de manos curiosas,principiantes y profesionales  que aman expresarse atravez de ellas.
+Aprenderemos una técnica para emplear de muchas maneras distintas!
+
+Los esperamos!`,
     cupos: '',
     turno: '',
     redes: '',
