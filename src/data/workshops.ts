@@ -684,22 +684,25 @@ Redes donde ver mi obra artística y trabajo docente:
     letra: '23',
     docente: 'Dulce Fuego',
     nombre: 'Dulce Fuego',
-    descripcion: `Día 1 por la mañana
+    descripcion: `Día 1 (por la mañana):
 Construcción de 2 hornos de 18 ladrillos para hornear con guano y carbón
-Día 2 por la tarde
+
+Día 2 (por la tarde): 
 Construcción de un horno cuadrado o hexagonal para quema a leña.
 Construcción de un hornito de 4 ladrillos para bizcochar con carbón
+
 En ambas quemas mientras se desarrollan las mismas se responden las dudas y consultas que las participantes tengan, incluyendo una explicación de cómo hacer pastas para fuego directo (Y Distintas fórmulas) y cómo se prensa en cartón para quemas cerámica
 Los cuatro hornos se abren luego de una media hora aproximada de haber terminado la quema.
-PIEZAS DE LAS PARTICIPANTES
+
+PIEZAS DE LAS PARTICIPANTES: 
 DEBEN SER DE TAMAÑO CHICO, NO MAS DE 8 CM DE DIÁMETRO, HECHAS CON PASTA PARA FUEGO DIRECTO. Se pueden traer bruñidas o con engobes, BIEN SECAS Y DE ESPESOR CHICO (NO MAS DE 5 MM)
 
 
 Rubén Darío Chiappero
-Nació en Córdoba, Argentina en
-1958.
+Nació en Córdoba, Argentina en 1958.
 Docente de Artes Visuales.
 Autor del libro “Dulce Fuego” Hornos para cerámica
+
 Realizó diversas capacitaciones con renombrados maestros ceramistas
 de Argentina y otros países., como Adriana Martínez, Alejandro Gregorio, Hernán Vargas, Maneno, Kyoong Woo Im, Alvaro Borrazas Pollak, Victoria Morando, Maria Eugenia Brusco , entre tantos Ceramistas que me transmitieron sus saberes.
 Impartió cursos y seminarios en
