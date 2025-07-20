@@ -208,7 +208,9 @@ Transferir a partir de shablon imágenes sobre objetos cerámicos en crudo, desa
     turno: '',
     redes: '',
     info: '',
-    images: [],
+    images: [
+      { src: '/images/7/img1.png', alt: 'Imagen del taller 7 1' },
+    ],
   },
   {
     id: '8',
@@ -311,7 +313,7 @@ Luciano y Sol trabajan la cerámica desde hace más de 16 años. Han desarrollad
     id: '9',
     letra: '9',
     docente: 'Daysi Linares',
-    nombre: 'Moldería',
+    nombre: 'Iniciación a la moldería cerámica',
     descripcion: `
 Profesora de cerámica con más de 11 años de experiencia en docencia artística. Especializada en técnicas de diseño, serialización, decoración cerámica, moldería y vitral. Con vocación por la enseñanza y el trabajo colectivo, ha desarrollado talleres para diversas instituciones y participado en encuentros binacionales y nacionales relacionados con el arte cerámico y la integración cultural.`,
     cupos: '',
@@ -319,7 +321,10 @@ Profesora de cerámica con más de 11 años de experiencia en docencia artístic
     redes: '',
     info: '',
     images: [
-      { src: '/images/9/img1.png', alt: 'Imagen del taller 9 - Moldería' },
+      { src: '/images/9/img1.png', alt: 'Imagen del taller 9 1' },
+      { src: '/images/9/img2.jpeg', alt: 'Imagen del taller 9 2' },
+      { src: '/images/9/img3.jpeg', alt: 'Imagen del taller 9 3' },
+      { src: '/images/9/img4.jpeg', alt: 'Imagen del taller 9 4' },
     ],
   },
   {
@@ -480,7 +485,7 @@ Desde 2008`,
     id: '16',
     letra: '16',
     docente: 'Karina del Savio',
-    nombre: 'Vitrofusión',
+    nombre: 'Los lustres de oro sobre el vidrio',
     descripcion: `KARINA DEL SAVIO
 
 En Buenos Aires, a mediados de 1970 en el seno de una familia Italo-Argentina nace Karina Del Savio.
@@ -546,19 +551,25 @@ Vive en Caballito (el lugar donde siempre quiso vivir). Vane lo aguanta desde ha
     id: '18',
     letra: '18',
     docente: 'Antonio Paez',
-    nombre: '',
-    descripcion: '',
+    nombre: 'Esmaltes cerámicos del pasado',
+    descripcion: `Acercamiento a las recetas de algunos esmaltes del pasado.
+Consideración de las materias primas.
+Averiguación sobre su existencia o inexistencia.
+Determinación si hay materiales actuales que sustituyan o combinen algunas de aquellas materias primas.
+Realización de los ensayos y/o pruebas necesarias para verificar los resultados.`,
     cupos: '',
     turno: '',
     redes: '',
     info: '',
-    images: [],
+    images: [
+      { src: '/images/18/img1.jpg', alt: 'Imagen del taller 18 1' },
+    ],
   },
   {
     id: '19',
     letra: '19',
     docente: 'Karina Neu',
-    nombre: '',
+    nombre: 'Tiffany',
     descripcion: `
 Comencé en este apasionante mundo del vidrio allá por el año 2005 donde fue
 que aprendí la técnica del vitral emplomado, de a poco fui comprando mis
@@ -672,24 +683,21 @@ Redes donde ver mi obra artística y trabajo docente:
   {
     id: '22',
     letra: '22',
-    docente: 'Andrea Da Ponte',
-    nombre: 'Pasta de vidrio moldeado',
-    descripcion: `Artista en Vidrio. Docente`,
+    docente: 'Escuela del vidrio Berazategui',
+    nombre: 'Reciclado de botellas',
+    descripcion: '',
     cupos: '',
     turno: '',
     redes: '',
     info: '',
     images: [
-      { src: '/images/22/img1.jpeg', alt: 'Imagen del taller 22 1' },
-      { src: '/images/22/img2.png', alt: 'Imagen del taller 22 2' },
-      { src: '/images/22/img3.png', alt: 'Imagen del taller 22 3' },
-      { src: '/images/22/img4.png', alt: 'Imagen del taller 22 4' },
+      { src: '/images/22/img1.jpg', alt: 'Imagen del taller 22 1' },
     ],
   },
   {
     id: '23',
     letra: '23',
-    docente: 'Dulce Fuego',
+    docente: 'Cuini Chiappero',
     nombre: 'Dulce Fuego',
     descripcion: `Día 1 (por la mañana):
 Construcción de 2 hornos de 18 ladrillos para hornear con guano y carbón
@@ -729,7 +737,7 @@ En los últimos años su tarea principal es la investigación sobre pastas cerá
     id: '24',
     letra: '24',
     docente: 'Beatriz Trepat',
-    nombre: '',
+    nombre: 'Trabajo en su obra - Interacción con el público',
     descripcion: `Nació en 1965, Rosario, Prov. de Santa Fe. En Rosario estudió en la Escuela Provincial de Artes Visuales y en la Universidad Nacional de
 Rosario, con especialidad en grabado y cerámica, egresando del Magisterio en 1986; continuó su formación en los talleres de Carlos Cantore y Dante Alberro. En París, ciudad en la que se radicó
 a fines de los ochenta, se especializó en esmaltes de alta temperatura en el taller de Helena Klug.
@@ -754,8 +762,28 @@ Vive y trabaja en París, Francia.`,
   {
     id: '25',
     letra: '25',
-    docente: 'Ariel Menniti',
-    nombre: 'Vitrales',
+    docente: 'Laura Rivolta',
+    nombre: 'Vitrofusión',
+    descripcion: '',
+    cupos: '',
+    turno: '',
+    redes: '',
+    info: '',
+    images: [
+      { src: '/images/25/img1.jpeg', alt: 'Imagen del taller 25 1' },
+      { src: '/images/25/img2.jpeg', alt: 'Imagen del taller 25 2' },
+      { src: '/images/25/img3.jpeg', alt: 'Imagen del taller 25 3' },
+      { src: '/images/25/img4.jpeg', alt: 'Imagen del taller 25 4' },
+      { src: '/images/25/img5.jpeg', alt: 'Imagen del taller 25 5' },
+      { src: '/images/25/img6.jpeg', alt: 'Imagen del taller 25 6' },
+      { src: '/images/25/img7.jpeg', alt: 'Imagen del taller 25 7' },
+    ],
+  },
+  {
+    id: '26',
+    letra: '26',
+    docente: 'Ariel Menitti',
+    nombre: 'Grisalla',
     descripcion: `📸 Instagram: @arielmenniti_vitrales
 
 ⸻
@@ -792,7 +820,10 @@ Soy Ariel Menniti, artista vitralista con más de 15 años de trayectoria. Me es
     redes: '@arielmenniti_vitrales',
     info: '',
     images: [
-      { src: '/images/26/img1.jpeg', alt: 'Imagen del taller 26 1' },
+      { src: '/images/26/img1.png', alt: 'Imagen del taller 26 1' },
+      { src: '/images/26/img2.png', alt: 'Imagen del taller 26 2' },
+      { src: '/images/26/img3.png', alt: 'Imagen del taller 26 3' },
+      { src: '/images/26/img4.png', alt: 'Imagen del taller 26 4' },
     ],
   },
   {
