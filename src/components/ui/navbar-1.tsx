@@ -49,7 +49,7 @@ const Navbar1 = () => {
               transition={{ duration: 0.3 }}
               whileHover={{ scale: 1.05 }}
             >
-              <Link href="#" className="text-sm text-gray-900 hover:text-gray-600 transition-colors font-medium">
+              <Link href="/cronograma" className="text-sm text-gray-900 hover:text-gray-600 transition-colors font-medium">
                 Cronograma
               </Link>
             </motion.div>

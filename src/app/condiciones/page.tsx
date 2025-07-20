@@ -12,16 +12,14 @@ export default function CondicionesPage() {
             
             <div className="prose prose-lg max-w-none space-y-6">
               <p className="text-lg text-muted-foreground tracking-tight">
-                El precio de la inscripción es de 1 Pago Total de $36.000 al contado al momento de la inscripción (mediante transferencia bancaria), o 2 Pagos de $18.000 cada uno (el primero al momento de la inscripción mediante transferencia bancaria y el segundo en efectivo en el momento de la acreditación).
-                Este precio incluye 2 noches de alojamiento en hotel con desayuno, en habitación a compartir con otros participantes (viernes 29 y sábado 30/09), cena del sábado 30 en comedor colectivo y materiales para utilizar en los talleres (no incluye la provisión de herramientas de modelado y/o pinceles, que el participante deberá traer de acuerdo a la actividad que realizará).
+                El precio de la inscripción es de 1 Pago Total de $150.000 al contado al momento de la inscripción (mediante transferencia bancaria), o 3 Pagos de $60.000 cada uno (el primero al momento de la inscripción mediante transferencia bancaria, el segundo al mes  y el tercero en efectivo en el momento de la acreditación).
+                Este precio incluye 3 noches de alojamiento en hotel con desayuno, en habitación a compartir con otros participantes (noche del jueves 30, viernes 31 y sábado 1/11), cena del sábado 1 en comedor colectivo y materiales para utilizar en los talleres (no incluye la provisión de herramientas y/o pinceles, que el participante deberá traer de acuerdo a la actividad que realizará).
               </p>
 
-              <p className="text-lg text-muted-foreground tracking-tight">
-                En caso de que el participante con alojamiento deseara acreditarse el jueves 28 de septiembre, puede optar por tomar una noche extra de alojamiento en el mismo hotel abonando la diferencia antes del ingreso al mismo.
-              </p>
+              
 
               <p className="text-lg text-muted-foreground tracking-tight">
-                En caso de que el participante no deseara contratar alojamiento por medio de los organizadores, el precio de la inscripción será de 1 Pago total de $24.000 (mediante transferencia bancaria), o en 2 Pagos de $13.000, el primero al momento de la inscripción (mediante transferencia bancaria) y la segunda en efectivo al momento de la acreditación. Esta modalidad también incluye materiales para los talleres y la cena colectiva del día sábado 30 y no incluye la provisión de herramientas de modelado y/o pinceles, que el participante deberá traer de acuerdo a la actividad que realizará.
+                En caso de que el participante no deseara contratar alojamiento por medio de los organizadores, el precio de la inscripción será de 1 Pago total de $80.000 (mediante transferencia bancaria), o en 3 Pagos de $30.000, el primero al momento de la inscripción (mediante transferencia bancaria), el segundo al mes y el tercero en efectivo al momento de la acreditación. Esta modalidad también incluye materiales para los talleres y la cena colectiva del día sábado 1 y no incluye la provisión de herramientas y/o pinceles, que el participante deberá traer de acuerdo a la actividad que realizará.
               </p>
 
               <p className="text-lg text-muted-foreground tracking-tight">
@@ -29,7 +27,7 @@ export default function CondicionesPage() {
               </p>
 
               <p className="text-lg text-muted-foreground tracking-tight">
-                Los participantes podrán acreditarse el día viernes 29 de septiembre a las 08,00 hs en el Teatro Gesell Plaza. Av.3 entre paseos 105 y 106. informando su correspondiente número de inscripción. Se invita a los participantes a presentar en el momento de la acreditación una obra cerámica de técnica y formato libres para participar en la muestra colectiva.
+                Los participantes podrán acreditarse el día jueves 30 de octubre desde las 11hs a 22hs en el Taller Municipal de Cerámica. Situado en Alameda 202 al 150. informando su correspondiente número de inscripción. Se invita a los participantes a presentar en el momento de la acreditación una obra cerámica de técnica y formato libres para participar en la muestra colectiva.
               </p>
 
               <p className="text-lg text-muted-foreground tracking-tight">

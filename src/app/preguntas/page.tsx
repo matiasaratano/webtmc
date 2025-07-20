@@ -7,19 +7,19 @@ import { Footer } from "@/components/ui/footer";
 const faqs = [
   {
     question: "¿Cuánto cuesta?",
-    answer: "Con alojamiento $ 36.000 (incluye 2 noches, viernes y sábado, en hotel con desayuno, en habitación compartida con otros participantes). Sin alojamiento $ 24.000. Ambas modalidades incluyen una cena con show y fiesta en la noche del sábado y los materiales para usar en los talleres."
+    answer: "Con alojamiento $ 150.000 (incluye 3 noches, jueves, viernes y sábado, en hotel con desayuno, en habitación compartida con otros participantes). Sin alojamiento $ 80.000. Ambas modalidades incluyen una cena con show y fiesta en la noche del sábado y los materiales para usar en los talleres."
   },
   {
     question: "¿Se puede pagar en cuotas?",
-    answer: "Sí. En caso de la inscripción con alojamiento, se puede pagar en 1 pago de $36.000 cada uno (al momento de la inscripción mediante transferencia bancaria), o en 2 pagos de $18.000 (el primero al momento de la inscripción mediante transferencia bancaria y el segundo, en efectivo al momento de la acreditación). En caso de inscribirte sin alojamiento, puede ser en 1 pago de $ 24.000 (al momento de la inscripción mediante transferencia bancaria), o en 2 pagos de $13.000 (el primero al momento de la inscripción mediante transferencia bancaria y el segundo, en efectivo al momento de la acreditación)."
+    answer: "Sí. En caso de la inscripción con alojamiento, se puede pagar en 3 pagos de $60.000 cada uno (ver en condiciones). En caso de inscribirte sin alojamiento, puede ser en 3 pagos de $ 30.000 (ver en condiciones)."
   },
   {
     question: "¿Cuándo empieza de inscripción?",
-    answer: "16 de Julio."
+    answer: "26 de Julio."
   },
   {
     question: "¿Dónde me puedo inscribir?",
-    answer: "La solicitud se recibe exclusivamente a través de este formulario en internet (disponible de 08 a 22,00 hs). Dentro del formulario se aclaran los medios y formas de pago."
+    answer: "La solicitud se recibe exclusivamente a través de este formulario en internet (disponible de 08hs a 22:00 hs). En el mail que recibirán luego de pre-inscribirse se aclaran los medios y formas de pago."
   },
   {
     question: "¿Hasta cuándo es la inscripción?",
@@ -27,11 +27,11 @@ const faqs = [
   },
   {
     question: "¿Dónde hay que depositar la plata?",
-    answer: "La plata se enviara por medio de un link de MercadoPago que brindaremos al momento de realizar la inscripción. No podrá inscribirte si no se realiza el pago y no se envía el comprobante ya que es solicitud requerida para poder hacerlo."
+    answer: "La plata se enviara por medio de transferencia a cuenta de MercadoPago que brindaremos al momento de realizar la pre-inscripción. No podrá inscribirte si no se realiza el pago y no se envía el comprobante ya que es solicitud requerida para poder hacerlo."
   },
   {
     question: "Mandé el formulario y todavía no me llegó nada. ¿Lo mando de nuevo?",
-    answer: "No. La respuesta no es automática, te la envía una persona humana que hace lo humanamente posible. Sobre todo los primeros días, esperamos tener muchas solicitudes al mismo tiempo y es posible que se demore un poco la respuesta. Si estás en la lista el mail fue emitido, si no lo recibiste por favor consultá tu carpeta de spam o correo no deseado y si aun así no lo encontrás, ponete en contacto (hay una sección de comentarios en esa página) por si te equivocaste cuando escribiste tu dirección de correo."
+    answer: "No. La respuesta no es automática, te la envía una persona humana que hace lo humanamente posible. Sobre todo los primeros días, esperamos tener muchas solicitudes al mismo tiempo y es posible que se demore un poco la respuesta. Si estás en la lista el mail fue emitido, si no lo recibiste por favor consultá tu carpeta de spam o correo no deseado y si aun así no lo encontrás, ponete en contacto (ver whatsapp en la web) por si te equivocaste cuando escribiste tu dirección de correo."
   },
   {
     question: "Si ya pagué y no puedo ir, ¿me devuelven la plata?",
@@ -43,7 +43,7 @@ const faqs = [
   },
   {
     question: "¿Dónde está el cronograma de talleres?",
-    answer: "Acá."
+    answer: "En nuestra web."
   },
   {
     question: "¿Cuándo me anoto a los diferentes talleres?",
@@ -51,7 +51,7 @@ const faqs = [
   },
   {
     question: "¿Puedo ir como oyente a algún taller sin inscribirme, si me queda algún horario libre?",
-    answer: "No. Los talleres no admiten oyentes. Hay 25 participantes en cada uno y el trabajo se dificulta si hay más gente en el lugar."
+    answer: "No. Los talleres no admiten oyentes. Hay cupos de participantes estipulados en cada uno y el trabajo se dificulta si hay más gente en el lugar."
   },
   {
     question: "¿Me puedo anotar en más de un taller?",
@@ -59,7 +59,7 @@ const faqs = [
   },
   {
     question: "Quiero seleccionar un taller en el formulario y no me deja, ¿por qué?",
-    answer: "Puede ser que ya no haya vacantes (en ese caso debería estar indicado) o que tengas seleccionado otro taller que se superponga en algún horario."
+    answer: "Puede ser que ya no haya vacantes (en ese caso debería estar indicado) o que tengas seleccionado otro taller que se superponga en algún horario. También puede suceder que tengas otra inscripción con el mismo mail, por lo que no te va a dejar anotarte en mas de 3 talleres"
   },
   {
     question: "¿Si hago un solo taller el precio es el mismo?",
@@ -71,7 +71,7 @@ const faqs = [
   },
   {
     question: "¿Puedo elegir a mis compañer@s de habitación en el hotel?",
-    answer: "En la solicitud de inscripción vas a poder poner con quién te gustaría compartir habitación, y que tus compañer@s pongan lo mismo. Se hará lo que se pueda."
+    answer: "Se hará lo que se pueda. (Aclararlo en el correo)"
   },
   {
     question: "¿Cuándo voy a saber qué hotel me toca?",
@@ -83,7 +83,7 @@ const faqs = [
   },
   {
     question: "¿Hay estacionamiento para mi auto en el hotel?",
-    answer: "Algunos de los hoteles que contratamos tienen estacionamiento y otros no. Si necesitás estacionamiento para tu auto, aclaralo en 'observaciones' en el formulario de inscripción."
+    answer: "Algunos de los hoteles que contratamos tienen estacionamiento y otros no. Si necesitás estacionamiento para tu auto, aclaralo en el correo al enviar tu comprobante de pago."
   },
   {
     question: "¿Puedo asistir a los talleres con mis chicos?",
@@ -107,7 +107,7 @@ const faqs = [
   },
   {
     question: "¿Dónde me tengo que presentar para acreditarme?",
-    answer: "La acreditación del día viernes es en el teatro municipal de paseo 108 casi avenida 3"
+    answer: "Los participantes podrán acreditarse el día jueves 30 de octubre desde las 11hs a 22hs en el Taller Municipal de Cerámica. Situado en Alameda 202 al 150 (ver mapa)"
   }
 ];
 
