@@ -612,6 +612,7 @@ de cinta de cobre.`,
       { src: '/images/19/img6.jpeg', alt: 'Imagen del taller 19 6' },
       { src: '/images/19/img7.jpeg', alt: 'Imagen del taller 19 7' },
       { src: '/images/19/img8.jpeg', alt: 'Imagen del taller 19 8' },
+      { src: '/images/19/img9.jpeg', alt: 'Imagen del taller 19 9' },
     ],
   },
   {
