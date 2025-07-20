@@ -8,6 +8,7 @@ import Link from "next/link"
 
 const Navbar1 = () => {
   const [isOpen, setIsOpen] = useState(false)
+  const [showPopup, setShowPopup] = useState(false);
 
   const toggleMenu = () => setIsOpen(!isOpen)
 
@@ -86,13 +87,26 @@ const Navbar1 = () => {
           transition={{ duration: 0.3, delay: 0.2 }}
           whileHover={{ scale: 1.05 }}
         >
-          <a
-            href="https://bienalvg.web.app/index.html"
+          <button
+            onClick={() => setShowPopup(true)}
             className="inline-flex items-center justify-center px-5 py-2 text-sm text-white bg-black rounded-full hover:bg-gray-800 transition-colors"
           >
             Inscripciones
-          </a>
+          </button>
         </motion.div>
+        {showPopup && (
+          <div className="fixed inset-0 flex items-center justify-center z-50 bg-black/60">
+            <div className="bg-white rounded-lg shadow-lg p-8 max-w-sm text-center">
+              <p className="text-xl font-semibold mb-4">Las inscripciónes a los talleres de la bienal serán habilitadas el día 26 de Julio. Muchas gracias!</p>
+              <button
+                onClick={() => setShowPopup(false)}
+                className="mt-2 px-4 py-2 bg-black text-white rounded-full hover:bg-gray-800"
+              >
+                Cerrar
+              </button>
+            </div>
+          </div>
+        )}
 
         {/* Mobile Menu Button */}
         <motion.button className="md:hidden flex items-center" onClick={toggleMenu} whileTap={{ scale: 0.9 }}>
