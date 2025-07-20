@@ -550,7 +550,7 @@ Vive en Caballito (el lugar donde siempre quiso vivir). Vane lo aguanta desde ha
   {
     id: '18',
     letra: '18',
-    docente: 'Antonio Paez',
+    docente: 'Antonio Paez - Gabriel Gian Calepore',
     nombre: 'Esmaltes cerámicos del pasado',
     descripcion: `Acercamiento a las recetas de algunos esmaltes del pasado.
 Consideración de las materias primas.
