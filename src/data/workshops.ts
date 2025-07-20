@@ -346,7 +346,7 @@ Profesora de cerámica con más de 11 años de experiencia en docencia artístic
     id: '11',
     letra: '11',
     docente: 'Maria Cheung',
-    nombre: 'Charla – Una Experiencia Personal del Proceso Creativo',
+    nombre: 'Plenario de Apertura – Una Experiencia Personal del Proceso Creativo',
     descripcion: `14º Seminario Bienal de Cerámica de Villa Gesell
 Del 30 de octubre al 2 de noviembre de 2025
 
