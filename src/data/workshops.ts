@@ -312,7 +312,7 @@ Luciano y Sol trabajan la cerámica desde hace más de 16 años. Han desarrollad
   {
     id: '9',
     letra: '9',
-    docente: 'Daysi Linares',
+    docente: 'Daisy Rocio Linares Chanamé',
     nombre: 'Iniciación a la moldería cerámica',
     descripcion: `
 Profesora de cerámica con más de 11 años de experiencia en docencia artística. Especializada en técnicas de diseño, serialización, decoración cerámica, moldería y vitral. Con vocación por la enseñanza y el trabajo colectivo, ha desarrollado talleres para diversas instituciones y participado en encuentros binacionales y nacionales relacionados con el arte cerámico y la integración cultural.`,
