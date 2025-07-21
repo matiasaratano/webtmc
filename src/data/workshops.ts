@@ -414,9 +414,9 @@ Desde el 2021 inicié mi proceso de aprendizaje cerámico en el taller de Ossini
     letra: '13',
     docente: 'Claudia Cambours',
     nombre: 'Pensar el hacer, habitar el grupo.',
-    descripcion: `Much@s ceramistas llevamos a cabo nuestro trabajo en talleres de diversos ámbitos no formales tales como centros culturales, espacios alternativos y  o en talleres propios. Armamos nuestras propuestas con los saberes que hemos aprendido en nuestra formación y con los que seguimos constantemente incorporando. Con la multiplicidad de información, fotos y videos que hoy se comparten en las redes, las personas concurren a los talleres pensando que rápidamente podrán llegar a “exitosos” resultados. Sabemos que nuestra práctica requiere de un largo proceso y eso es lo que la hace maravillosa. Como hacer entonces para que nuestras propuestas resulten convocantes? En tiempos de excesiva individualidad, como se propicia el encuentro grupal de l@s asistentes? Las propuestas de trabajo tienen que ser grupales o individuales? Que buscan l@s participantes que concurren a nuestros talleres?  Estos y otros interrogantes que hacen a nuestra práctica, será lo que trabajaremos en este encuentro. Esta actividad está pensada para ceramistas con experiencia a cargo en talleres como a así también para los que estén interesados en coordinarlos.
+    descripcion: `Much@s ceramistas llevamos a cabo nuestro trabajo en talleres de diversos ámbitos no formales tales como centros culturales, espacios alternativos y  o en talleres propios. Armamos nuestras propuestas con los saberes que hemos aprendido en nuestra formación y con los que seguimos constantemente incorporando. Con la multiplicidad de información, fotos y videos que hoy se comparten en las redes, las personas concurren a los talleres pensando que rápidamente podrán llegar a "exitosos" resultados. Sabemos que nuestra práctica requiere de un largo proceso y eso es lo que la hace maravillosa. Como hacer entonces para que nuestras propuestas resulten convocantes? En tiempos de excesiva individualidad, como se propicia el encuentro grupal de l@s asistentes? Las propuestas de trabajo tienen que ser grupales o individuales? Que buscan l@s participantes que concurren a nuestros talleres?  Estos y otros interrogantes que hacen a nuestra práctica, será lo que trabajaremos en este encuentro. Esta actividad está pensada para ceramistas con experiencia a cargo en talleres como a así también para los que estén interesados en coordinarlos.
 
-“Es muy optimista ser maestro, ocuparse de la educación. Es una apuesta al futuro, una certeza de que hay vida, de que todo puede mutar, de que algo que no se sabía se puede saber, de que algo que no se juntaba se puede juntar” Diana Aisenberg
+"Es muy optimista ser maestro, ocuparse de la educación. Es una apuesta al futuro, una certeza de que hay vida, de que todo puede mutar, de que algo que no se sabía se puede saber, de que algo que no se juntaba se puede juntar" Diana Aisenberg
 
 El taller consta de dos momentos, uno vivencial en el que trabajaremos con arcilla, otro de intercambio y donde compartiré algunas vivencias y experiencias de los talleres que coordino.
 
@@ -469,7 +469,7 @@ Es necesario contar con manejo básico/intermedio del torno alfarero, ya que par
     letra: '15',
     docente: 'Eliana Oliva',
     nombre: 'La cuerda seca y sus posibilidades',
-    descripcion: `Creadora del Taller de Cerámica “Fuego Blanco”
+    descripcion: `Creadora del Taller de Cerámica "Fuego Blanco"
 Clases de alfarería   
 Taller de introducción en Cerámica para 
 Niños y adultos.
@@ -500,7 +500,7 @@ Desde muy temprana edad refleja su pasión por el dibujo. Su madre, pintora, cer
 
 A los 8 años, frente a su inquietud, asiste a clases de dibujo en un taller cercano a su casa donde intercambiaba experiencias con otros niños de su edad. En menos de un mes Karina dibujaba una figura humana y su profesor sugiere cambiarla a un grupo de alumnos avanzados. Al poco tiempo asiste a estas nuevas clases pero una notable diferencia de edad le impide adaptarse y Karina deja de dibujar. Sólo lo hace en momentos en que nadie la ve siendo su madre la única testigo de su trabajo.
 
-A los 17 años ingresa en el conservatorio de Arte Dramático, dónde encuentra especial interés por las técnicas escenográficas y descubre la importancia de la luz: “aprendí que en el teatro la luz materializa el espacio”. A los 22 años retoma definitivamente la actividad plástica: ingresa a estudiar en la escuela de vidrio de Berazategui donde encuentra no sólo un espacio de aprendizaje sino también de creación. Allí cursa los tres años de enseñanza y pronto es contratada como ayudante en la sala de hornos. Aprende a trabajar el vidrio de la mano de Amalia García, (ex-directora de la escuela de vidrio de Berazategui) y de todo su equipo de profesores. Más tarde toma clases con Silvia Levenson, Miriam Difiere, Eduardo Osimani y Santiago Sanz Llorente, quienes le enseñan las primeras notas del arte en vidrio. Su curiosidad y su persistente búsqueda de del desarrollo de nuevas técnicas la llevan a la “Cristalería El Progreso”, donde dictas clases teóricas junto a los más destacados operarios. De esta experiencia, y del contacto directo con la fábrica, adquiere el conocimiento del desplazamiento del vidrio dentro del horno y de sus posibilidades estéticas. Comienza el desarrollo de su producción artística.
+A los 17 años ingresa en el conservatorio de Arte Dramático, dónde encuentra especial interés por las técnicas escenográficas y descubre la importancia de la luz: "aprendí que en el teatro la luz materializa el espacio". A los 22 años retoma definitivamente la actividad plástica: ingresa a estudiar en la escuela de vidrio de Berazategui donde encuentra no sólo un espacio de aprendizaje sino también de creación. Allí cursa los tres años de enseñanza y pronto es contratada como ayudante en la sala de hornos. Aprende a trabajar el vidrio de la mano de Amalia García, (ex-directora de la escuela de vidrio de Berazategui) y de todo su equipo de profesores. Más tarde toma clases con Silvia Levenson, Miriam Difiere, Eduardo Osimani y Santiago Sanz Llorente, quienes le enseñan las primeras notas del arte en vidrio. Su curiosidad y su persistente búsqueda de del desarrollo de nuevas técnicas la llevan a la "Cristalería El Progreso", donde dictas clases teóricas junto a los más destacados operarios. De esta experiencia, y del contacto directo con la fábrica, adquiere el conocimiento del desplazamiento del vidrio dentro del horno y de sus posibilidades estéticas. Comienza el desarrollo de su producción artística.
 
 A partir de 1998, sus obras de arte y objetos funcionales se muestran en importantes empresas de diseño de interiores y arquitectura. Desde entonces perfecciona sus conocimientos de la producción artesanal. Sus abras artísticas se exponen en eventos como SOFA (USA), e integran colecciones en todo el mundo.
 
@@ -519,7 +519,7 @@ Actualmente se encuentra dirigiendo su taller cuyo foco es la producción de exc
     id: '17',
     letra: '17',
     docente: 'Juanjo Izaguirre',
-    nombre: 'Recuperación de la escultura ´Adolescencia” del Maestro Vicente Puig',
+    nombre: 'Recuperación de la escultura ´Adolescencia" del Maestro Vicente Puig',
     descripcion: `Juan José Izaguirre es ceramista, docente, músico y escritor. Nació en Buenos Aires en 1961.
 
 Comenzó sus estudios en la (entonces) Escuela Nacional de Cerámica, egresando como Técnico en Cerámica Artística en 1980, como Profesor Nacional de Cerámica Artística en 1982.
@@ -536,13 +536,13 @@ Entre 1995 y 2011 no tuvo actividad en el ámbito de la Cerámica, ni en la doce
 
 En 2011, regresó a la docencia en la actual Escuela Superior de Enseñanza Artística en Cerámica N°1, de la Ciudad Autónoma de Buenos Aires, donde se desempeña actualmente como profesor de la materia Moldería, en los ciclos de Técnico en Cerámica Artística y Auxiliares de Taller.
 
-Paralelamente, como músico ha participado de diversos proyectos como autor, compositor y cantante; y ha publicado los álbumes “Vagos y mal entretenidos” (junto a Guillermo Roffé, en 2013) y “Qué menos, qué más” (en 2022). Ambos con canciones propias y “en complicidad”.
+Paralelamente, como músico ha participado de diversos proyectos como autor, compositor y cantante; y ha publicado los álbumes "Vagos y mal entretenidos" (junto a Guillermo Roffé, en 2013) y "Qué menos, qué más" (en 2022). Ambos con canciones propias y "en complicidad".
 
-Como escritor, ha participado en diversas antologías del género “cuento”, en Argentina, España y México; y como “ghost-writter” en proyectos institucionales. Ha publicado “Objetos perdidos” (cuentos, Ediciones Bao-Bab, 2003) y “Miradas y voces” (conversaciones con artistas plásticos, Organización de Estados Iberoamericanos, 2024), que puede descargarse gratuitamente desde la página https://oei.int/oficinas/argentina/publicaciones/miradas-y-voces-una-publicacion-del-espacio-cultural-de-la-oei-en-argentina/
+Como escritor, ha participado en diversas antologías del género "cuento", en Argentina, España y México; y como "ghost-writter" en proyectos institucionales. Ha publicado "Objetos perdidos" (cuentos, Ediciones Bao-Bab, 2003) y "Miradas y voces" (conversaciones con artistas plásticos, Organización de Estados Iberoamericanos, 2024), que puede descargarse gratuitamente desde la página https://oei.int/oficinas/argentina/publicaciones/miradas-y-voces-una-publicacion-del-espacio-cultural-de-la-oei-en-argentina/
 
  
 
-Vive en Caballito (el lugar donde siempre quiso vivir). Vane lo aguanta desde hace trece años (¡todo un record!, comentan en el vecindario). Hace 38 años, es el papá de Alejo “grande”, el mejor profesor de música de California. Y, -según declaran los propios damnificados-; es el “Papá adoptado” por Alejo “chico” y Morena.
+Vive en Caballito (el lugar donde siempre quiso vivir). Vane lo aguanta desde hace trece años (¡todo un record!, comentan en el vecindario). Hace 38 años, es el papá de Alejo "grande", el mejor profesor de música de California. Y, -según declaran los propios damnificados-; es el "Papá adoptado" por Alejo "chico" y Morena.
 `,
     cupos: '',
     turno: '',
@@ -581,7 +581,7 @@ Comencé en este apasionante mundo del vidrio allá por el año 2005 donde fue
 que aprendí la técnica del vitral emplomado, de a poco fui comprando mis
 primeras herramientas y haciendo pequeños trabajos, sóltandome y ganando
 confianza , y me fui dando cuenta que quería mas.
-Tres años mas tarde fui a aprender la técnica tyﬀany de cinta de cobre y me
+Tres años mas tarde fui a aprender la técnica tyffany de cinta de cobre y me
 estuve desarrollando unos años, hasta que, con la idea de hacer mis propios
 vidrios, fui a aprender vitrofusion, y ahí empieza un capítulo aparte.
 Con la vitrofusion no solo podía hacer mis propios vidrios, se abrió todo un mundo
@@ -690,9 +690,35 @@ Redes donde ver mi obra artística y trabajo docente:
   {
     id: '22',
     letra: '22',
-    docente: 'Escuela del vidrio Berazategui',
-    nombre: 'Reciclado de botellas',
-    descripcion: '',
+    docente: 'Gabriela Lopez Osornio - Alejandro Pereyra - Andrés Arzich',
+    nombre: 'Suprareciclado en Vidrio',
+    descripcion: `Descripción: En este taller vamos a intervenir de manera creativa el material que nos ofrecen
+las botellas consideradas de descarte. Te enseñamos a cortar, termoformar, dar terminación y
+realizar un vitrocemento.
+Se realizarán cuatro objetos que el alumno se podrá llevar terminados. Una maceta o fanal en
+vitrocemento, un vaso con terminación en frio, dos trabajos termoformados en horno.
+
+
+Cronograma:
+ 
+
+ahoJornada 1: Viernes 31 de octubre, de 14.30 a 18.30 hs
+Realización de dos pequeños moldes con mezcla refractaria (yeso/cuarzo).
+Armado de cortante eléctrico para botellas y práctica de diferentes tipos cortes.
+
+Jornada 2: Sábado 1 de noviembre, de 14.00 a 18.00 hs
+Terminación de cantos vivos con carburo de silicio
+Encofrado para el vitrocemento (maceta/fanal) , preparación y vertido del cemento
+Tallado de los yesos y carga en horno
+
+Jornada 3: Domingo 2 noviembre, de 10.00 a 12.00 hs.
+Desencofrado del vitrocemento
+Devolución de los trabajos horneados (teoría: curvas de temperatura)
+Perforación
+Materiales: tres botellas por persona (preferentemente de Gancia/Fernet/ o simil verde claro).
+Yeso y cuarzo (15kg de cada uno aproximandamente, para un grupo de aprox 30 personas)
+Arcilla de descarte. Estecas, cuchillos, herramientas para trabajar el yeso. Radiografias/acetato.
+Una bolsa de cemento y una de arena.`,
     cupos: '',
     turno: '',
     redes: '',
@@ -723,7 +749,7 @@ DEBEN SER DE TAMAÑO CHICO, NO MAS DE 8 CM DE DIÁMETRO, HECHAS CON PASTA PARA F
 Rubén Darío Chiappero
 Nació en Córdoba, Argentina en 1958.
 Docente de Artes Visuales.
-Autor del libro “Dulce Fuego” Hornos para cerámica
+Autor del libro "Dulce Fuego" Hornos para cerámica
 
 Realizó diversas capacitaciones con renombrados maestros ceramistas
 de Argentina y otros países., como Adriana Martínez, Alejandro Gregorio, Hernán Vargas, Maneno, Kyoong Woo Im, Alvaro Borrazas Pollak, Victoria Morando, Maria Eugenia Brusco , entre tantos Ceramistas que me transmitieron sus saberes.
@@ -861,5 +887,67 @@ En 2019 recibí el Primer Premio en Patrimonio del Fondo Nacional de las Artes p
       { src: '/images/27/img4.jpeg', alt: 'Imagen del taller 27 4' },
     ],
   },
-  // Puedes agregar más talleres aquí si es necesario
+  {
+    id: '28',
+    letra: '28',
+    docente: 'Claudia Golzman',
+    nombre: 'Charla sobre vidrio',
+    descripcion: `Resido en la ciudad de  Buenos Aires, Argentina, donde nací y crecí.
+Para hablar elijo al vidrio, poesía de lo íntimo. Una materialidad que parece inmaterial, que aparenta levedad y es pesada, una pura y exquisita contradicción. Me interesa como elemento simbólico de la memoria emocional.
+ 
+Cursé la Escuela de Bellas Artes Prilidiano Pueyrredón y talleres de la Escuela del Vidrio de Berazategui, Argentina.
+Soy escultora, pintora y muralista.
+Me formé con Aurelio Macchi, Antonio Pujía, Graciela Genovés y Silvia Levenson.
+Soy una de las fundadoras de la Red Muralista Argentina y del grupo Contraluz Mural. Cuando descubrí el vidrio hace más de 27 años, me fascinó la idea de trabajar con luz, de hacer murales transparentes, abocándome a la realización de vitrales.
+
+En 2008 Silvia Levenson me enseñó la técnica del vidrio colado por crisol y la poesía de las formas traslúcidas en el espacio. Desde entonces trabajo con la técnica del casting a la cera perdida y la pasta de vidrio.
+
+Considero la docencia  parte indeclinable de mi trabajo.
+
+Muestras seleccionada
+2024- Distinción. Areatec. Edificio Cassará- Buenos Aires- Argentina
+2023-Casa Foa. Espacio de Innovación- Buenos Aires- Argentina
+2023-Retratos de los días de la peste-Centro cultural Chimera-Buenos Aires-Argentina
+2022- Museo Catedral de La Plata- Argentina
+2022-Intemperie, Espacio Lacroze, Buenos Aires. Argentina
+2022-BIAVI Museo Municipal de Cartago, C. Rica
+2021-Glass Art Society-GAS Virtual
+2019-Artistas argentinos contemporáneos-Museo dell'Arte Vetraria Altarese- Altare-Italia
+2019-Jornads Arts del Vidre -Centre D'Art D'Escaldes- Engordany-Andorra 2019-Exodo-Museo de Arte en Vidrio de Alcorcón-Madrid-España
+2017-Éxodo-Galería de Arte Buenos Aires Sur-Buenos Aires-Argentina
+ 
+2015-Estrategias de Silencio-Galería de Arte Buenos Aires Sur-Buenos Aires-Argentina
+2014-Artes combinadas- Museo de escultura Luis Perlotti-Buenos Aires-Argentina
+2014-Modelos para armar-Museo de Arte en Vidrio de Alcorcón-Madrid-España 2014-Modelos para armar-Colegio Mayor Argentino-España
+2012-Bullseye Glass Gallery-Emerge 2012-Portland-USA
+
+Premios seleccionados
+
+2024-Primer premio Escultura-Salón Nacional del Vidrio en el Arte-Argentina
+
+2018-Gran Premio Adquisición-Salón Nacional del Vidrio en el Arte-Argentina
+
+2016-Gran Premio Adquisición-Salón Nacional del Vidrio enel Arte-Argentina
+
+2015-Primer premio Escultura-Salón Nacional del Vidrio en el Arte-Argentina
+
+2012-Emerge 2012-Bullseye Glass-Portland-USA
+
+2012-Primer premio Escultura-Salón Nacional del Vidrio en el Arte-Argentina
+
+2011-Primer premio Escultura-Salón Nacional del Vidrio en el Arte-Argentina
+
+Colecciones Públicas
+
+Museo Nacional del Vidrio-Berazategui-Argentina Museo de Arte en Vidrio de Alcorcón-Madrid-España Museo dell'Arte Vetraria Altarese-Altare-Italia
+
+Actividad Muralismo`,
+    cupos: '',
+    turno: '',
+    redes: '',
+    info: '',
+    images: [
+      { src: '/images/28/img1.jpeg', alt: 'Imagen del taller 28 1' },
+    ],
+  },
 ]; 
