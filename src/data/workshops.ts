@@ -447,7 +447,13 @@ Se desempeñó como asistente de curaduría en el Área De Museografía en el Mu
     letra: '14',
     docente: 'Mariano Mungo',
     nombre: 'Taller intensivo de escultura en torno alfarero',
-    descripcion: '',
+    descripcion: `En este taller intensivo de dos encuentros exploraremos el torno alfarero como herramienta creativa para la construcción de esculturas cerámicas. A través de técnicas mixtas que combinan el modelado en torno con el trabajo manual, cada participante desarrollará una obra única, abordando tanto los aspectos técnicos como expresivos del material.
+
+En la primera clase nos enfocaremos en la creación de las piezas base en el torno: cilindros, conos, cuencos u otras formas modulares que luego servirán como componentes para la escultura final. En el segundo encuentro abordaremos el ensamble, intervenciones y detalles finales, orientando la construcción hacia una obra con identidad propia.
+
+Es necesario contar con manejo básico/intermedio del torno alfarero, ya que partiremos de formas previamente torneadas para construir la obra escultórica.
+
+`,
     cupos: '',
     turno: '',
     redes: '@https://www.instagram.com/marianomungo',
