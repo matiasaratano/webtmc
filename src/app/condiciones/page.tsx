@@ -12,7 +12,7 @@ export default function CondicionesPage() {
             
             <div className="prose prose-lg max-w-none space-y-6">
               <p className="text-lg text-muted-foreground tracking-tight">
-                El precio de la inscripción es de 1 Pago Total de $150.000 al contado al momento de la inscripción (mediante transferencia bancaria), o 3 Pagos de $60.000 cada uno (el primero al momento de la inscripción mediante transferencia bancaria, el segundo al mes  y el tercero en efectivo en el momento de la acreditación).
+                El precio de la inscripción es de 1 Pago Total de $170.000 al contado al momento de la inscripción (mediante transferencia bancaria), o 3 Pagos de $65.000 cada uno (el primero al momento de la inscripción mediante transferencia bancaria, el segundo al mes  y el tercero en efectivo en el momento de la acreditación).
                 Este precio incluye 3 noches de alojamiento en hotel con desayuno, en habitación a compartir con otros participantes (noche del jueves 30, viernes 31 y sábado 1/11), cena del sábado 1 en comedor colectivo y materiales para utilizar en los talleres (no incluye la provisión de herramientas y/o pinceles, que el participante deberá traer de acuerdo a la actividad que realizará).
               </p>
 

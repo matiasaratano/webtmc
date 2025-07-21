@@ -7,11 +7,11 @@ import { Footer } from "@/components/ui/footer";
 const faqs = [
   {
     question: "¿Cuánto cuesta?",
-    answer: "Con alojamiento $ 150.000 (incluye 3 noches, jueves, viernes y sábado, en hotel con desayuno, en habitación compartida con otros participantes). Sin alojamiento $ 80.000. Ambas modalidades incluyen una cena con show y fiesta en la noche del sábado y los materiales para usar en los talleres."
+    answer: "Con alojamiento $ 170.000 (incluye 3 noches, jueves, viernes y sábado, en hotel con desayuno, en habitación compartida con otros participantes). Sin alojamiento $ 80.000. Ambas modalidades incluyen una cena con show y fiesta en la noche del sábado y los materiales para usar en los talleres."
   },
   {
     question: "¿Se puede pagar en cuotas?",
-    answer: "Sí. En caso de la inscripción con alojamiento, se puede pagar en 3 pagos de $60.000 cada uno (ver en condiciones). En caso de inscribirte sin alojamiento, puede ser en 3 pagos de $ 30.000 (ver en condiciones)."
+    answer: "Sí. En caso de la inscripción con alojamiento, se puede pagar en 3 pagos de $65.000 cada uno (ver en condiciones). En caso de inscribirte sin alojamiento, puede ser en 3 pagos de $ 30.000 (ver en condiciones)."
   },
   {
     question: "¿Cuándo empieza de inscripción?",
