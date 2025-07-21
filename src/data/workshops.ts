@@ -702,7 +702,7 @@ vitrocemento, un vaso con terminación en frio, dos trabajos termoformados en ho
 Cronograma:
  
 
-ahoJornada 1: Viernes 31 de octubre, de 14.30 a 18.30 hs
+Jornada 1: Viernes 31 de octubre, de 14.30 a 18.30 hs
 Realización de dos pequeños moldes con mezcla refractaria (yeso/cuarzo).
 Armado de cortante eléctrico para botellas y práctica de diferentes tipos cortes.
 
@@ -715,10 +715,7 @@ Jornada 3: Domingo 2 noviembre, de 10.00 a 12.00 hs.
 Desencofrado del vitrocemento
 Devolución de los trabajos horneados (teoría: curvas de temperatura)
 Perforación
-Materiales: tres botellas por persona (preferentemente de Gancia/Fernet/ o simil verde claro).
-Yeso y cuarzo (15kg de cada uno aproximandamente, para un grupo de aprox 30 personas)
-Arcilla de descarte. Estecas, cuchillos, herramientas para trabajar el yeso. Radiografias/acetato.
-Una bolsa de cemento y una de arena.`,
+`,
     cupos: '',
     turno: '',
     redes: '',
