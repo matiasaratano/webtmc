@@ -22,6 +22,9 @@ export default function Home() {
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
               A continuación, podrás encontrar los talleres que estarán disponibles en el XIV Seminario Bienal de Cerámica de Villa Gesell.
             </p>
+            <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
+              Haciendo click en cada taller podrás ver más información sobre el mismo.
+            </p>
           </div>
           <WorkshopsCarousel />
         </div>
