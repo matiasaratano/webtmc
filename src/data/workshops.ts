@@ -332,7 +332,25 @@ Profesora de cerámica con más de 11 años de experiencia en docencia artístic
     letra: '10',
     docente: 'Vero Horak',
     nombre: 'Articulados',
-    descripcion: '',
+    descripcion: `Este taller propone la creación de juguetes articulados en cerámica, con piezas móviles diseñadas para ser utilizadas con confianza. A lo largo de dos encuentros, cada participante desarrollará un proyecto propio, abordando tanto la construcción como el ensamblado del objeto.
+  
+  En el primer encuentro se trabajará en el diseño y modelado del juguete, definiendo las articulaciones, construyendo cada una de sus partes y realizando la decoración con engobes. Las piezas serán horneadas entre clase y clase.
+  
+  En el segundo encuentro se realizará el armado final. Si el diseño lo requiere, podrán incorporarse materiales complementarios como telas, mostacillas o madera.
+  
+  El taller ofrece acompañamiento general durante todo el proceso, orientado a quienes deseen explorar la cerámica desde una perspectiva lúdica y funcional, promoviendo el desarrollo autónomo de cada propuesta.
+  
+  Me inicié en la cerámica a los 9 años con Leo Tavella, y desde entonces mi vínculo con el barro fue creciendo de manera orgánica y personal. Desde muy chica también me atrajeron las máquinas y el funcionamiento de las cosas. Esa sensibilidad por lo técnico y lo artesanal atraviesa toda mi práctica artística.
+  
+  Mi formación es diversa: estudié diseño industrial, teatro y jardinería, y también me formé en espacios autogestivos.
+  
+  Trabajo principalmente en series que integran narrativa, juego y movimiento. Algunos temas recurrentes en mi obra son lo mágico, lo articulado, el silencio y lo sugerido. Entre mis trabajos más significativos están la serie Los Demonios, cargada de simbolismo e introspección, y la pieza Ablación, que fue premiada por el Centro Argentino de Arte Cerámico. También desarrollo obras inspiradas en cuentos, como La casa de los cubos o Alicia en el país de las maravillas, que abordo desde la escultura articulada y la instalación.
+  
+  Mi interés por lo articulado nació en la infancia, cuando me dijeron que no se podía hacer una muñeca articulada de cerámica. Años después, retomé esa frase –"¿quién dijo que no se puede?"– como un disparador para crear piezas móviles, integrando mecanismos simples como ejes, tensores y alambres. Para mí, el movimiento no es decorativo: es parte de la identidad de la pieza.
+  
+  Desde hace muchos años enseño cerámica y llevo mi proyecto basado en la creación de muñecas articuladas y piezas móviles, a diversos talleres y espacios culturales, tanto a nivel nacional como internacional. Esta experiencia de enseñanza es para mí una extensión natural de mi trabajo, un espacio de aprendizaje mutuo y de expansión del vínculo con el barro y el movimiento.
+  
+  Concibo el hacer como una forma de pensamiento. Mis procesos no son lineales, pero están guiados por decisiones conscientes que combinan intuición, técnica y escucha del material. También valoro profundamente la cerámica como una alternativa sostenible al plástico y como portadora de saberes ancestrales.`,
     cupos: '',
     turno: '',
     redes: '',
