@@ -947,4 +947,29 @@ Actividad Muralismo`,
       { src: '/images/28/img1.jpeg', alt: 'Imagen del taller 28 1' },
     ],
   },
+  {
+    id: '30',
+    letra: '30',
+    docente: 'Guillermo Mañe',
+    nombre: 'Texto y contexto',
+    descripcion: `Observaciones sobre producciones cerámicas contemporáneas.
+
+Contenido: observaremos producciones cerámicas contemporáneas de distintas procedencias buscando coincidencias o divergencias tanto en lo formal, estilístico y expresivo, indagando sobre el contexto en que fueron realizadas.
+
+¿Qué antecedentes tiene la obra? ¿A qué alude? ¿Cómo utiliza elementos visuales como color y forma? ¿Cuál es el contexto cultural, político o histórico? Son algunas de las preguntas que nos haremos.
+
+La intención es ampliar nuestra mirada para dar mayor contenido a las producciones propias.
+
+Duración del taller: dos módulos de 2 horas y media a tres horas.`,
+    cupos: '',
+    turno: '',
+    redes: '',
+    info: '',
+    images: [
+      { src: '/images/30/img1.png', alt: 'Imagen del taller 30 1' },
+      { src: '/images/30/img2.png', alt: 'Imagen del taller 30 2' },
+      { src: '/images/30/img3.png', alt: 'Imagen del taller 30 3' },
+      { src: '/images/30/img4.png', alt: 'Imagen del taller 30 4' },
+    ],
+  },
 ]; 
