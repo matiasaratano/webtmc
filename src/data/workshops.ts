@@ -509,30 +509,56 @@ Desde 2008`,
     id: '16',
     letra: '16',
     docente: 'Karina del Savio',
-    nombre: 'Los lustres de oro sobre el vidrio',
-    descripcion: `KARINA DEL SAVIO
-
-En Buenos Aires, a mediados de 1970 en el seno de una familia Italo-Argentina nace Karina Del Savio.
-
-Desde muy temprana edad refleja su pasión por el dibujo. Su madre, pintora, ceramista y amante del arte, la estimula y acerca al fascinante mundo de los lápices, papeles, acuarelas y libros de pintura.
-
-A los 8 años, frente a su inquietud, asiste a clases de dibujo en un taller cercano a su casa donde intercambiaba experiencias con otros niños de su edad. En menos de un mes Karina dibujaba una figura humana y su profesor sugiere cambiarla a un grupo de alumnos avanzados. Al poco tiempo asiste a estas nuevas clases pero una notable diferencia de edad le impide adaptarse y Karina deja de dibujar. Sólo lo hace en momentos en que nadie la ve siendo su madre la única testigo de su trabajo.
-
-A los 17 años ingresa en el conservatorio de Arte Dramático, dónde encuentra especial interés por las técnicas escenográficas y descubre la importancia de la luz: "aprendí que en el teatro la luz materializa el espacio". A los 22 años retoma definitivamente la actividad plástica: ingresa a estudiar en la escuela de vidrio de Berazategui donde encuentra no sólo un espacio de aprendizaje sino también de creación. Allí cursa los tres años de enseñanza y pronto es contratada como ayudante en la sala de hornos. Aprende a trabajar el vidrio de la mano de Amalia García, (ex-directora de la escuela de vidrio de Berazategui) y de todo su equipo de profesores. Más tarde toma clases con Silvia Levenson, Miriam Difiere, Eduardo Osimani y Santiago Sanz Llorente, quienes le enseñan las primeras notas del arte en vidrio. Su curiosidad y su persistente búsqueda de del desarrollo de nuevas técnicas la llevan a la "Cristalería El Progreso", donde dictas clases teóricas junto a los más destacados operarios. De esta experiencia, y del contacto directo con la fábrica, adquiere el conocimiento del desplazamiento del vidrio dentro del horno y de sus posibilidades estéticas. Comienza el desarrollo de su producción artística.
-
-A partir de 1998, sus obras de arte y objetos funcionales se muestran en importantes empresas de diseño de interiores y arquitectura. Desde entonces perfecciona sus conocimientos de la producción artesanal. Sus abras artísticas se exponen en eventos como SOFA (USA), e integran colecciones en todo el mundo.
-
-Actualmente se encuentra dirigiendo su taller cuyo foco es la producción de exclusivos objetos artesanales de altísima calidad. Divide su tiempo entre la creación, la experimentación, y el aprendizaje constante.`,
+    nombre: 'Lustres de oro sobre el vidrio',
+    descripcion: `Nacida el 24 de mayo de 1970 en Quilmes, Buenos Aires, Argentina\n
+    \n
+    FORMACIÓN ARTÍSTICA\n
+    Escuela Pública de Vidrio, Berazategui, Argentina\n
+    Real Fábrica La Granja, Segovia, España\n
+    Cristalería el Progreso, Argentina\n
+    Light painting y kiln casting Glass,\n
+    Miriam Di Fiore, Silvia Levenson\n
+    \n
+    PREMIOS Y EXHIBICIONES\n
+    Docente en la Escuela de Artes y Oficios Aplicados, Santiago de Chile\n
+    1997 a 2006 diseñadora de revestimientos de vidrio, Barujel Azulay, Argentina.\n
+    2001 premio adquisición salón del vidrio, Berazategui\n
+    2011 premio adquisición salón del vidrio, Berazategui\n
+    En 2008 Creadora de los Seminarios Internacionales de Arte en Vidrio, Berazategui, Argentina.\n
+    8 exhibiciones en SOFA Chicago y New York, E.E.UU.\n
+    2012 finalista de E-MERGE Portland E.E.UU.\n
+    2013 Docente en el Estudio Corning Museum of Glass New York,\n
+    en Pittsburgh Glass Center Pennsylvania como asistente de Silvia Levenson,\n
+    y en RIT University Rochester New York, EEUU.\n
+    2015 y 2016 seleccionada por la New Glass Review Corning Museum of Glass, New York\n
+    2018 mención altamente recomendada por el jurado (Bullseye Glass Artists,)\n
+    The Glass Prize 2018 UK - www.theglassprize.co.uk/2018-results-cms-63.html\n
+    El Museo Altare de Italia (www.museodelvetro.org/) adquirió su obra "Feathers",\n
+    como parte de su colección permanente y patrimonio del Museo.\n
+    Sus obras se exhiben en Pyramid Gallery York, UK, actualmente.\n
+    2023 la Universidad de la Plata aprobó la tesis para optar por el grado de Magister en Estética,\n
+    Teoría y Gestión de las Artes presentada por Vanesa Sierra sobre la obra de Karina Del Savio,\n
+    obteniendo así la publicación de dicha tesis por la misma Universidad Nacional de la Plata.\n
+    Actualmente Coordinadora del área de vidrio contemporáneo de la Secretaría de Cultura y\n
+    Educación de la Municipalidad de Berazategui.\n
+    2023 su obra "Sistema Solar" y "Flores Inventadas" se exhibió en CASA FOA,\n
+    https://casafoa.com/ Buenos Aires, Argentina.\n
+    2024, 13 de Julio - 14 de octubre, Exhibió su obra "Flowers" en el Toyama Glass Museum, Japón.\n
+    \n
+    En este curso aprenderán:\n
+    1 - La diferencia de los distintos lustres de vidrio\n
+    2 - La aplicación en capas y en reverso\n
+    3 - Las curvas de temperatura del vidrio y de los lustres para sus distintos usos`
+    ,
     cupos: '',
     turno: '',
-    redes: '',
+    redes: '@kdelsavio',
     info: '',
     images: [
-      { src: '/images/16/img1.jpg', alt: 'Imagen del taller 16 1' },
-      { src: '/images/16/img2.jpg', alt: 'Imagen del taller 16 2' },
-      { src: '/images/16/img3.jpg', alt: 'Imagen del taller 16 3' },
+      { src: '/images/16/img1.jpeg', alt: 'Imagen del taller 16 1' }
     ],
-  },
+  }
+,  
   {
     id: '17',
     letra: '17',
