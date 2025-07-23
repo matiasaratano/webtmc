@@ -740,38 +740,77 @@ Redes donde ver mi obra artística y trabajo docente:
     letra: '22',
     docente: 'Gabriela Lopez Osornio - Alejandro Pereyra - Andrés Arzich',
     nombre: 'Suprareciclado en Vidrio',
-    descripcion: `Descripción: En este taller vamos a intervenir de manera creativa el material que nos ofrecen
-las botellas consideradas de descarte. Te enseñamos a cortar, termoformar, dar terminación y
-realizar un vitrocemento.
-Se realizarán cuatro objetos que el alumno se podrá llevar terminados. Una maceta o fanal en
-vitrocemento, un vaso con terminación en frio, dos trabajos termoformados en horno.
-
-
-Cronograma:
- 
-
-Jornada 1: Viernes 31 de octubre, de 14.30 a 18.30 hs
-Realización de dos pequeños moldes con mezcla refractaria (yeso/cuarzo).
-Armado de cortante eléctrico para botellas y práctica de diferentes tipos cortes.
-
-Jornada 2: Sábado 1 de noviembre, de 14.00 a 18.00 hs
-Terminación de cantos vivos con carburo de silicio
-Encofrado para el vitrocemento (maceta/fanal) , preparación y vertido del cemento
-Tallado de los yesos y carga en horno
-
-Jornada 3: Domingo 2 noviembre, de 10.00 a 12.00 hs.
-Desencofrado del vitrocemento
-Devolución de los trabajos horneados (teoría: curvas de temperatura)
-Perforación
-`,
+    descripcion: `Descripción: En este taller vamos a intervenir de manera creativa el material que nos ofrecen las botellas consideradas de descarte.\n
+  Te enseñamos a cortar, termoformar, dar terminación y realizar un vitrocemento.\n
+  Se realizarán cuatro objetos que el alumno se podrá llevar terminados:\n
+  - Una maceta o fanal en vitrocemento\n
+  - Un vaso con terminación en frío\n
+  - Dos trabajos termoformados en horno\n
+  \n
+  Cronograma:\n
+  \n
+  Jornada 1: Viernes 31 de octubre, de 14.30 a 18.30 hs\n
+  - Realización de dos pequeños moldes con mezcla refractaria (yeso/cuarzo)\n
+  - Armado de cortante eléctrico para botellas y práctica de diferentes tipos de cortes\n
+  \n
+  Jornada 2: Sábado 1 de noviembre, de 14.00 a 18.00 hs\n
+  - Terminación de cantos vivos con carburo de silicio\n
+  - Encofrado para el vitrocemento (maceta/fanal), preparación y vertido del cemento\n
+  - Tallado de los yesos y carga en horno\n
+  \n
+  Jornada 3: Domingo 2 de noviembre, de 10.00 a 12.00 hs\n
+  - Desencofrado del vitrocemento\n
+  - Devolución de los trabajos horneados (teoría: curvas de temperatura)\n
+  - Perforación\n
+  \n
+  Sobre les docentes:\n
+  \n
+  **Andrés Edgardo Arzich**\n
+  Estudios:\n
+  - Diplomatura en Vidrio Artístico, Universidad Abierta Interamericana (2012)\n
+  - Tecnicatura en Vidrio Artístico, Escuela Municipal del Vidrio de Berazategui (2010)\n
+  \n
+  **Gabriela Beatriz López Osornio** — Técnica en Vidrio Artístico\n
+  Nacida el 19/12/1967 en Ensenada, Bs. As., Argentina. Reside en Gonnet.\n
+  \n
+  Perfeccionamientos:\n
+  - Cerámica, Prof. Beatriz Englebienne (2003 y 2009–2011)\n
+  - Pasta de vidrio, Nicolás Cuevas (2013)\n
+  - Tecnicatura en Vidrio Artístico, Esc. del Vidrio de Berazategui (2013–2014)\n
+  - Pate de verre avanzado, Paula Lekerman (2019)\n
+  \n
+  Seminarios:\n
+  - Caída libre, Prof. C. Herzberg (2008)\n
+  - Pate de Verré, Prof. C. Herzberg (2009)\n
+  - Lo que el viento se llevó, fusing, Eduardo Nieto (2015)\n
+  - Light painting, Miriam di Fiore (2016)\n
+  - Kiln Casting, Mark Abildgaard (2016)\n
+  - Pasta de vidrio, Teresa Apud (2023)\n
+  - Casting y curvas de temperatura, Pilar Aldana Méndez (2024)\n
+  \n
+  **Alejandro Hernán Pereyra**\n
+  Técnico en Vidrio Artístico y docente en la Escuela Municipal del Vidrio de Berazategui “San Francisco” y en el IMCA de Avellaneda.\n
+  Posee sólida formación en técnicas de manipulación y creación con vidrio, combinando la práctica artística con la pasión por enseñar.\n
+  Comprometido con la excelencia y la innovación en cada proyecto.\n
+  
+  
+  \nRedes (instagram):\n
+ @andyarzich\n
+ @gloglass_ok\n
+  @arte_y_vidrio
+  `
+  
+  ,
     cupos: '',
     turno: '',
     redes: '',
     info: '',
     images: [
-      { src: '/images/22/img1.jpeg', alt: 'Imagen del taller 22 1' },
-    ],
-  },
+      { src: '/images/22/img1.jpeg', alt: 'Imagen del taller 22 1' }
+    ]
+  }
+  
+  ,
   {
     id: '23',
     letra: '23',
