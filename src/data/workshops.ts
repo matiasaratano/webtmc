@@ -978,7 +978,7 @@ En 2019 recibí el Primer Premio en Patrimonio del Fondo Nacional de las Artes p
     id: '28',
     letra: '28',
     docente: 'Claudia Golzman - Karina del Savio',
-    nombre: 'Conferencia artistas del vidrio ',
+    nombre: 'Charla - El arte en vidrio en la Argentina desde 1900 hasta la actualidad',
     descripcion: `Resido en la ciudad de  Buenos Aires, Argentina, donde nací y crecí.
 Para hablar elijo al vidrio, poesía de lo íntimo. Una materialidad que parece inmaterial, que aparenta levedad y es pesada, una pura y exquisita contradicción. Me interesa como elemento simbólico de la memoria emocional.
  
