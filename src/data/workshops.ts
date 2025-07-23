@@ -769,7 +769,7 @@ Perforación
     redes: '',
     info: '',
     images: [
-      { src: '/images/22/img1.jpg', alt: 'Imagen del taller 22 1' },
+      { src: '/images/22/img1.jpeg', alt: 'Imagen del taller 22 1' },
     ],
   },
   {
