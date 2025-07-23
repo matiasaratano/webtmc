@@ -510,7 +510,15 @@ Desde 2008`,
     letra: '16',
     docente: 'Karina del Savio',
     nombre: 'Lustres de oro sobre el vidrio',
-    descripcion: `Nacida el 24 de mayo de 1970 en Quilmes, Buenos Aires, Argentina\n
+    descripcion: `
+    \nEn este curso aprenderán:\n
+    1 - La diferencia de los distintos lustres de vidrio\n
+    2 - La aplicación en capas y en reverso\n
+    3 - Las curvas de temperatura del vidrio y de los lustres para sus distintos usos
+    
+    
+    
+    Nacida el 24 de mayo de 1970 en Quilmes, Buenos Aires, Argentina\n
     \n
     FORMACIÓN ARTÍSTICA\n
     Escuela Pública de Vidrio, Berazategui, Argentina\n
@@ -544,11 +552,7 @@ Desde 2008`,
     2023 su obra "Sistema Solar" y "Flores Inventadas" se exhibió en CASA FOA,\n
     https://casafoa.com/ Buenos Aires, Argentina.\n
     2024, 13 de Julio - 14 de octubre, Exhibió su obra "Flowers" en el Toyama Glass Museum, Japón.\n
-    \n
-    En este curso aprenderán:\n
-    1 - La diferencia de los distintos lustres de vidrio\n
-    2 - La aplicación en capas y en reverso\n
-    3 - Las curvas de temperatura del vidrio y de los lustres para sus distintos usos`
+    `
     ,
     cupos: '',
     turno: '',
