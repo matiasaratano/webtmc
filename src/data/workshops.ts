@@ -559,7 +559,10 @@ Desde 2008`,
     redes: '@kdelsavio',
     info: '',
     images: [
-      { src: '/images/16/img1.jpeg', alt: 'Imagen del taller 16 1' }
+      { src: '/images/16/img1.jpg', alt: 'Imagen del taller 16 1'},
+       { src: '/images/16/img2.jpeg', alt: 'Imagen del taller 16 2'},
+       { src: '/images/16/img3.jpg', alt: 'Imagen del taller 16 3'}
+       
     ],
   }
 ,  
@@ -1031,7 +1034,7 @@ Actividad Muralismo`,
     redes: '',
     info: '',
     images: [
-      { src: '/images/28/img1.jpeg', alt: 'Imagen del taller 28 1' },
+      { src: '/images/28/img1.jpg', alt: 'Imagen del taller 28 1' },
     ],
   },
   {
