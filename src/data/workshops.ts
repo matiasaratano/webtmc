@@ -431,7 +431,7 @@ Desde el 2021 inicié mi proceso de aprendizaje cerámico en el taller de Ossini
     id: '13',
     letra: '13',
     docente: 'Claudia Cambours',
-    nombre: 'Pensar el hacer, habitar el grupo.',
+    nombre: 'El taller de cerámica: Pensar el hacer, habitar el grupo',
     descripcion: `Much@s ceramistas llevamos a cabo nuestro trabajo en talleres de diversos ámbitos no formales tales como centros culturales, espacios alternativos y  o en talleres propios. Armamos nuestras propuestas con los saberes que hemos aprendido en nuestra formación y con los que seguimos constantemente incorporando. Con la multiplicidad de información, fotos y videos que hoy se comparten en las redes, las personas concurren a los talleres pensando que rápidamente podrán llegar a "exitosos" resultados. Sabemos que nuestra práctica requiere de un largo proceso y eso es lo que la hace maravillosa. Como hacer entonces para que nuestras propuestas resulten convocantes? En tiempos de excesiva individualidad, como se propicia el encuentro grupal de l@s asistentes? Las propuestas de trabajo tienen que ser grupales o individuales? Que buscan l@s participantes que concurren a nuestros talleres?  Estos y otros interrogantes que hacen a nuestra práctica, será lo que trabajaremos en este encuentro. Esta actividad está pensada para ceramistas con experiencia a cargo en talleres como a así también para los que estén interesados en coordinarlos.
 
 "Es muy optimista ser maestro, ocuparse de la educación. Es una apuesta al futuro, una certeza de que hay vida, de que todo puede mutar, de que algo que no se sabía se puede saber, de que algo que no se juntaba se puede juntar" Diana Aisenberg
