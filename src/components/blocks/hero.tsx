@@ -4,7 +4,7 @@ import { useState } from "react";
 import Image from "next/image";
 
 export function Hero() {
-  const [showPopup, setShowPopup] = useState(false);
+  //const [showPopup, setShowPopup] = useState(false);
 
   return (
     <div className="w-full py-10 lg:py-20">
