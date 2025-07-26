@@ -19,7 +19,7 @@ const faqs = [
   },
   {
     question: "¿Dónde me puedo inscribir?",
-    answer: "La solicitud se recibe exclusivamente a través de este formulario en internet (disponible de 08hs a 22:00 hs). En el mail que recibirán luego de pre-inscribirse se aclaran los medios y formas de pago."
+    answer: "La solicitud se recibe exclusivamente a través de este formulario en internet (disponible a partir de las 14hs). En el mail que recibirán luego de pre-inscribirse se aclaran los medios y formas de pago."
   },
   {
     question: "¿Hasta cuándo es la inscripción?",
