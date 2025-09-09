@@ -201,7 +201,7 @@ Transferir a partir de shablon imágenes sobre objetos cerámicos en crudo, desa
   {
     id: '7',
     letra: '7',
-    docente: 'Myrtha Sirna',
+    docente: 'Myrtha Sirna y Patricia Íñiguez',
     nombre: 'El principio del esmalte sobre metal',
     descripcion: '',
     cupos: '',
