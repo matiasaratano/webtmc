@@ -900,53 +900,6 @@ Vive y trabaja en París, Francia.`,
     ],
   },
   {
-    id: '26',
-    letra: '26',
-    docente: 'Ariel Menitti',
-    nombre: 'Grisalla',
-    descripcion: `📸 Instagram: @arielmenniti_vitrales
-
-⸻
-
-🧑‍🎨 Perfil Profesional
-
-Soy Ariel Menniti, artista vitralista con más de 15 años de trayectoria. Me especializo en la creación y restauración de vitrales artísticos, integrando técnicas tradicionales y contemporáneas. Trabajo tanto en obras religiosas como civiles, buscando siempre respetar el lenguaje arquitectónico y simbólico del espacio.
-
-⸻
-
-🛠️ Técnicas y Estilos que desarrollo
-	• Grisalla y esmaltes sobre vidrio
-	• Emplomado tradicional y Tiffany 
-	• Termofusión y vitrofusión
-	• Pintura figurativa y simbólica
-	• Restauración de vitrales antiguos
-	• Estilos: gótico, neogótico, art nouveau y contemporáneo
-	• Diseño de vitrales para iglesias, museos, residencias, cúpulas, etc.
-
-⸻
-
-🌟 Obras destacadas
-	• Santuario de Lourdes
-	• Museo Colección Gómez Nordelta
-	• Casa Rosada
-	• Mercado de San Telmo
-	• Regimiento de Artillería
-	• Regimiento de Ingenieros
-	• Heraldos del Evangelio
-	• Don Orione
-	• Cura Brochero`,
-    cupos: '',
-    turno: '',
-    redes: '@arielmenniti_vitrales',
-    info: '',
-    images: [
-      { src: '/images/26/img1.png', alt: 'Imagen del taller 26 1' },
-      { src: '/images/26/img2.png', alt: 'Imagen del taller 26 2' },
-      { src: '/images/26/img3.png', alt: 'Imagen del taller 26 3' },
-      { src: '/images/26/img4.png', alt: 'Imagen del taller 26 4' },
-    ],
-  },
-  {
     id: '27',
     letra: '27',
     docente: 'Farina Ruiz, Maria Paula',
